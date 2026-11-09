@@ -1,0 +1,766 @@
+read_on,id,state,district,njdg_code,pending,pending_civil,pending_criminal,older_than_10
+2026-11-09,andaman-and-nicobar-islands/port-blair,andaman-and-nicobar-islands,Port Blair,35~28/1,9358,4366,4992,1382
+2026-11-09,andaman-and-nicobar-islands/nicobars,andaman-and-nicobar-islands,Nicobars,35~28/82,0,0,0,0
+2026-11-09,andaman-and-nicobar-islands/north-and-middle-andaman,andaman-and-nicobar-islands,North And Middle Andaman,35~28/83,0,0,0,0
+2026-11-09,andaman-and-nicobar-islands/south-andamans,andaman-and-nicobar-islands,SOUTH ANDAMANS,35~28/84,0,0,0,0
+2026-11-09,andhra-pradesh/ananthapur,andhra-pradesh,Ananthapur,28~2/2,86122,44164,41958,1309
+2026-11-09,andhra-pradesh/chittoor,andhra-pradesh,Chittoor,28~2/3,98666,50952,47714,2006
+2026-11-09,andhra-pradesh/east-godavari,andhra-pradesh,East Godavari,28~2/4,92621,43086,49535,969
+2026-11-09,andhra-pradesh/guntur,andhra-pradesh,Guntur,28~2/5,97144,45544,51600,1257
+2026-11-09,andhra-pradesh/kadapa,andhra-pradesh,Kadapa,28~2/7,51367,27127,24240,609
+2026-11-09,andhra-pradesh/kurnool,andhra-pradesh,Kurnool,28~2/10,90480,40429,50051,1002
+2026-11-09,andhra-pradesh/krishna,andhra-pradesh,Krishna,28~2/11,97964,41722,56242,1205
+2026-11-09,andhra-pradesh/nellore,andhra-pradesh,Nellore,28~2/15,50648,21988,28660,699
+2026-11-09,andhra-pradesh/prakasham,andhra-pradesh,Prakasham,28~2/17,61226,31498,29728,1220
+2026-11-09,andhra-pradesh/srikakulam,andhra-pradesh,Srikakulam,28~2/19,30426,12852,17574,273
+2026-11-09,andhra-pradesh/visakapatnam,andhra-pradesh,Visakapatnam,28~2/20,89711,37822,51889,1787
+2026-11-09,andhra-pradesh/vizianagaram,andhra-pradesh,Vizianagaram,28~2/21,28163,14074,14089,268
+2026-11-09,andhra-pradesh/west-godavari,andhra-pradesh,West Godavari,28~2/23,67759,28490,39269,818
+2026-11-09,arunachal-pradesh/lohit,arunachal-pradesh,Lohit,12~36/1,891,131,760,71
+2026-11-09,arunachal-pradesh/upper-subansiri,arunachal-pradesh,Upper Subansiri,12~36/2,549,191,358,10
+2026-11-09,arunachal-pradesh/papum-pare,arunachal-pradesh,Papum Pare,12~36/3,5669,1064,4605,617
+2026-11-09,arunachal-pradesh/west-kameng,arunachal-pradesh,West Kameng,12~36/4,856,175,681,8
+2026-11-09,arunachal-pradesh/upper-siang,arunachal-pradesh,Upper Siang,12~36/5,81,26,55,5
+2026-11-09,arunachal-pradesh/east-siang,arunachal-pradesh,East Siang,12~36/6,3286,1008,2278,292
+2026-11-09,arunachal-pradesh/west-siang,arunachal-pradesh,West Siang,12~36/7,1025,528,497,13
+2026-11-09,arunachal-pradesh/lower-subansiri,arunachal-pradesh,Lower Subansiri,12~36/8,692,223,469,12
+2026-11-09,arunachal-pradesh/tirap,arunachal-pradesh,Tirap,12~36/9,611,35,576,90
+2026-11-09,arunachal-pradesh/lower-dibang-valley,arunachal-pradesh,Lower Dibang Valley,12~36/10,459,112,347,11
+2026-11-09,arunachal-pradesh/leparada,arunachal-pradesh,Leparada,12~36/11,143,52,91,7
+2026-11-09,arunachal-pradesh/tawang,arunachal-pradesh,Tawang,12~36/12,113,35,78,0
+2026-11-09,arunachal-pradesh/east-kameng,arunachal-pradesh,East Kameng,12~36/13,287,78,209,5
+2026-11-09,arunachal-pradesh/anjaw,arunachal-pradesh,Anjaw,12~36/89,57,15,42,0
+2026-11-09,arunachal-pradesh/siang,arunachal-pradesh,Siang,12~36/90,228,79,149,0
+2026-11-09,arunachal-pradesh/keyi-panyor,arunachal-pradesh,Keyi Panyor,12~36/91,0,0,0,0
+2026-11-09,arunachal-pradesh/shi-yomi,arunachal-pradesh,Shi Yomi,12~36/92,0,0,0,0
+2026-11-09,arunachal-pradesh/bichom,arunachal-pradesh,Bichom,12~36/93,0,0,0,0
+2026-11-09,arunachal-pradesh/kra-daadi,arunachal-pradesh,Kra Daadi,12~36/94,149,90,59,0
+2026-11-09,arunachal-pradesh/kamle,arunachal-pradesh,Kamle,12~36/95,0,0,0,0
+2026-11-09,arunachal-pradesh/pakke-kessang,arunachal-pradesh,Pakke Kessang,12~36/96,0,0,0,0
+2026-11-09,arunachal-pradesh/longding,arunachal-pradesh,Longding,12~36/97,184,24,160,4
+2026-11-09,arunachal-pradesh/kurung-kumey,arunachal-pradesh,Kurung Kumey,12~36/98,48,3,45,0
+2026-11-09,arunachal-pradesh/dibang-valley,arunachal-pradesh,Dibang Valley,12~36/99,72,0,72,3
+2026-11-09,arunachal-pradesh/changlang,arunachal-pradesh,Changlang,12~36/100,715,90,625,12
+2026-11-09,arunachal-pradesh/namsai,arunachal-pradesh,Namsai,12~36/101,510,26,484,70
+2026-11-09,arunachal-pradesh/lower-siang,arunachal-pradesh,Lower Siang,12~36/102,0,0,0,0
+2026-11-09,arunachal-pradesh/crime-branch,arunachal-pradesh,Crime Branch,12~36/117,0,0,0,0
+2026-11-09,assam/kamrup-metro,assam,Kamrup Metro,18~6/1,256310,29783,226527,2965
+2026-11-09,assam/tinsukia,assam,Tinsukia,18~6/2,10666,2869,7797,140
+2026-11-09,assam/sivasagar,assam,Sivasagar,18~6/3,4354,1363,2991,19
+2026-11-09,assam/morigaon,assam,Morigaon,18~6/4,11865,3032,8833,47
+2026-11-09,assam/lakhimpur,assam,Lakhimpur,18~6/5,7382,783,6599,48
+2026-11-09,assam/sonitpur,assam,Sonitpur,18~6/6,12276,3236,9040,182
+2026-11-09,assam/dibrugarh,assam,Dibrugarh,18~6/7,11248,4025,7223,194
+2026-11-09,assam/darrang,assam,Darrang,18~6/8,16672,4098,12574,274
+2026-11-09,assam/bongaigaon,assam,Bongaigaon,18~6/9,12846,4145,8701,109
+2026-11-09,assam/nagaon,assam,Nagaon,18~6/10,25308,5709,19599,485
+2026-11-09,assam/jorhat,assam,Jorhat,18~6/11,15025,2494,12531,54
+2026-11-09,assam/sribhumi,assam,Sribhumi,18~6/12,23758,6237,17521,312
+2026-11-09,assam/cachar,assam,Cachar,18~6/13,30022,8749,21273,1011
+2026-11-09,assam/nalbari,assam,Nalbari,18~6/15,9164,2223,6941,59
+2026-11-09,assam/dhubri,assam,Dhubri,18~6/16,26373,6016,20357,429
+2026-11-09,assam/dhemaji,assam,Dhemaji,18~6/17,3612,410,3202,5
+2026-11-09,assam/goalpara,assam,Goalpara,18~6/18,13461,3903,9558,226
+2026-11-09,assam/golaghat,assam,Golaghat,18~6/19,6981,1800,5181,56
+2026-11-09,assam/barpeta,assam,Barpeta,18~6/20,23113,5717,17396,291
+2026-11-09,assam/hailakandi,assam,Hailakandi,18~6/21,14146,3417,10729,120
+2026-11-09,assam/kokrajhar,assam,Kokrajhar,18~6/22,5301,1661,3640,10
+2026-11-09,assam/kamrup,assam,Kamrup,18~6/23,25288,7274,18014,588
+2026-11-09,assam/udalguri,assam,Udalguri,18~6/24,2403,645,1758,0
+2026-11-09,assam/chirang,assam,Chirang,18~6/25,2923,992,1931,6
+2026-11-09,assam/karbi-anglong,assam,Karbi Anglong,18~6/26,2121,236,1885,49
+2026-11-09,assam/baksa,assam,Baksa,18~6/27,3529,562,2967,0
+2026-11-09,assam/dima-hasao,assam,Dima Hasao,18~6/28,630,120,510,15
+2026-11-09,assam/charaideo,assam,Charaideo,18~6/29,1763,317,1446,0
+2026-11-09,assam/hojai,assam,Hojai,18~6/30,16155,2241,13914,4
+2026-11-09,assam/south-salmara,assam,South Salmara,18~6/31,4867,1105,3762,14
+2026-11-09,assam/bajali,assam,Bajali,18~6/32,2564,802,1762,14
+2026-11-09,assam/biswanath,assam,Biswanath,18~6/33,5019,990,4029,60
+2026-11-09,assam/majuli,assam,Majuli,18~6/34,530,121,409,0
+2026-11-09,assam/west-karbi-anglong,assam,West Karbi Anglong,18~6/35,1593,27,1566,0
+2026-11-09,bihar/patna,bihar,Patna,10~8/1,461216,48199,413017,99364
+2026-11-09,bihar/kaimur-at-bhabhua,bihar,Kaimur at Bhabhua,10~8/2,57453,16028,41425,7589
+2026-11-09,bihar/samastipur,bihar,Samastipur,10~8/3,122228,23623,98605,29625
+2026-11-09,bihar/saran-at-chapra,bihar,Saran at Chapra,10~8/4,165233,24440,140793,36893
+2026-11-09,bihar/katihar,bihar,Katihar,10~8/5,83105,10337,72768,17378
+2026-11-09,bihar/begusarai,bihar,Begusarai,10~8/6,93610,13157,80453,19820
+2026-11-09,bihar/banka,bihar,Banka,10~8/7,59901,6608,53293,10562
+2026-11-09,bihar/purnea,bihar,Purnea,10~8/9,87688,8993,78695,19796
+2026-11-09,bihar/motihari,bihar,Motihari,10~8/10,175796,23356,152440,47046
+2026-11-09,bihar/munger,bihar,Munger,10~8/11,57256,7278,49978,15184
+2026-11-09,bihar/madhepura,bihar,Madhepura,10~8/12,60179,11910,48269,9987
+2026-11-09,bihar/rohtas-sasaram,bihar,Rohtas Sasaram,10~8/13,111049,22507,88542,21554
+2026-11-09,bihar/khagaria,bihar,Khagaria,10~8/14,54369,4632,49737,10124
+2026-11-09,bihar/jamui,bihar,Jamui,10~8/15,55976,6139,49837,10487
+2026-11-09,bihar/aurangabad,bihar,Aurangabad,10~8/16,71996,9965,62031,11019
+2026-11-09,bihar/darbhanga,bihar,Darbhanga,10~8/17,103627,18726,84901,21964
+2026-11-09,bihar/madhubani,bihar,Madhubani,10~8/18,111173,13887,97286,25842
+2026-11-09,bihar/lakhisarai,bihar,Lakhisarai,10~8/19,37101,3486,33615,7631
+2026-11-09,bihar/sheikhpura,bihar,Sheikhpura,10~8/20,19765,2235,17530,1712
+2026-11-09,bihar/saharsa,bihar,Saharsa,10~8/21,70662,11415,59247,16869
+2026-11-09,bihar/supaul,bihar,Supaul,10~8/22,67393,7835,59558,6522
+2026-11-09,bihar/gopalganj,bihar,Gopalganj,10~8/23,114614,22943,91671,24703
+2026-11-09,bihar/araria,bihar,Araria,10~8/24,78252,8576,69676,14274
+2026-11-09,bihar/kishanganj,bihar,Kishanganj,10~8/25,28490,2484,26006,4304
+2026-11-09,bihar/buxar,bihar,Buxar,10~8/26,67670,16364,51306,14418
+2026-11-09,bihar/nawada,bihar,Nawada,10~8/27,98352,13631,84721,16375
+2026-11-09,bihar/bettiah,bihar,Bettiah,10~8/28,136540,15733,120807,22913
+2026-11-09,bihar/siwan,bihar,Siwan,10~8/29,120256,21877,98379,22575
+2026-11-09,bihar/nalanda,bihar,Nalanda,10~8/30,129009,12537,116472,25694
+2026-11-09,bihar/sitamarhi,bihar,Sitamarhi,10~8/31,89780,12242,77538,12352
+2026-11-09,bihar/bhojpur,bihar,Bhojpur,10~8/33,111176,21937,89239,22881
+2026-11-09,bihar/bhagalpur,bihar,Bhagalpur,10~8/34,138067,20414,117653,24579
+2026-11-09,bihar/gaya,bihar,Gaya,10~8/35,172324,27231,145093,40231
+2026-11-09,bihar/jehanabad,bihar,Jehanabad,10~8/36,40983,5027,35956,3560
+2026-11-09,bihar/sheohar,bihar,Sheohar,10~8/37,14492,1757,12735,769
+2026-11-09,bihar/muzaffarpur,bihar,Muzaffarpur,10~8/38,217607,28210,189397,46774
+2026-11-09,bihar/vaishali,bihar,Vaishali,10~8/39,119830,28876,90954,25146
+2026-11-09,bihar/arwal,bihar,ARWAL,10~8/86,12693,2438,10255,1403
+2026-11-09,chandigarh/chandigarh,chandigarh,Chandigarh,4~27/1,100621,24237,76384,336
+2026-11-09,chhattisgarh/korba,chhattisgarh,Korba,22~18/1,24128,3902,20226,17
+2026-11-09,chhattisgarh/bilaspur,chhattisgarh,Bilaspur,22~18/2,63070,16827,46243,109
+2026-11-09,chhattisgarh/raipur,chhattisgarh,Raipur,22~18/3,114288,14732,99556,321
+2026-11-09,chhattisgarh/surguja-at-ambikapur,chhattisgarh,Surguja at Ambikapur,22~18/4,18913,4021,14892,31
+2026-11-09,chhattisgarh/dhamtari,chhattisgarh,Dhamtari,22~18/5,9878,2989,6889,46
+2026-11-09,chhattisgarh/raigarh,chhattisgarh,Raigarh,22~18/6,32519,5580,26939,31
+2026-11-09,chhattisgarh/durg,chhattisgarh,Durg,22~18/7,39648,7143,32505,90
+2026-11-09,chhattisgarh/kawardha,chhattisgarh,Kawardha,22~18/9,10683,1120,9563,4
+2026-11-09,chhattisgarh/rajnandgaon,chhattisgarh,Rajnandgaon,22~18/10,21765,4135,17630,39
+2026-11-09,chhattisgarh/koriya,chhattisgarh,Koriya,22~18/11,13661,2720,10941,11
+2026-11-09,chhattisgarh/mahasamund,chhattisgarh,Mahasamund,22~18/12,14767,2037,12730,7
+2026-11-09,chhattisgarh/kanker,chhattisgarh,Kanker,22~18/13,5569,1275,4294,55
+2026-11-09,chhattisgarh/bastar,chhattisgarh,Bastar,22~18/15,11231,2361,8870,20
+2026-11-09,chhattisgarh/jashpur,chhattisgarh,Jashpur,22~18/16,5279,1610,3669,11
+2026-11-09,chhattisgarh/dantewada,chhattisgarh,Dantewada,22~18/17,2524,409,2115,0
+2026-11-09,chhattisgarh/janjgir,chhattisgarh,Janjgir,22~18/18,24172,4597,19575,105
+2026-11-09,chhattisgarh/balod,chhattisgarh,Balod,22~18/19,8460,1524,6936,3
+2026-11-09,chhattisgarh/bemetara,chhattisgarh,Bemetara,22~18/20,8580,1489,7091,5
+2026-11-09,chhattisgarh/surajpur,chhattisgarh,Surajpur,22~18/21,14066,3630,10436,37
+2026-11-09,chhattisgarh/kondagaon,chhattisgarh,Kondagaon,22~18/22,3766,943,2823,1
+2026-11-09,chhattisgarh/balodabazar,chhattisgarh,Balodabazar,22~18/23,20432,2484,17948,15
+2026-11-09,chhattisgarh/mungeli,chhattisgarh,Mungeli,22~18/24,8170,1476,6694,5
+2026-11-09,chhattisgarh/balrampur-ramanujganj,chhattisgarh,Balrampur Ramanujganj,22~18/25,9496,1650,7846,7
+2026-11-09,chhattisgarh/sukma,chhattisgarh,sukma,22~18/80,0,0,0,0
+2026-11-09,chhattisgarh/gaurela-pendra-marwahi,chhattisgarh,Gaurela Pendra Marwahi,22~18/81,0,0,0,0
+2026-11-09,chhattisgarh/bijapur,chhattisgarh,Bijapur,22~18/128,0,0,0,0
+2026-11-09,chhattisgarh/gariyaband,chhattisgarh,Gariyaband,22~18/129,0,0,0,0
+2026-11-09,chhattisgarh/khairagarh-chhuikhadan-gandai,chhattisgarh,Khairagarh Chhuikhadan Gandai,22~18/130,0,0,0,0
+2026-11-09,chhattisgarh/manendragarh-chirmiri-bharatpu,chhattisgarh,Manendragarh Chirmiri Bharatpu,22~18/131,0,0,0,0
+2026-11-09,chhattisgarh/mohla-manpur-ambagarh-chouki,chhattisgarh,Mohla Manpur Ambagarh Chouki,22~18/132,0,0,0,0
+2026-11-09,chhattisgarh/sakti,chhattisgarh,Sakti,22~18/133,0,0,0,0
+2026-11-09,chhattisgarh/sarangarh-bilaigarh,chhattisgarh,Sarangarh Bilaigarh,22~18/134,0,0,0,0
+2026-11-09,delhi/north-east,delhi,North East,7~26/1,35455,6687,28768,889
+2026-11-09,delhi/shahdara,delhi,Shahdara,7~26/2,66906,15315,51591,1871
+2026-11-09,delhi/east,delhi,East,7~26/3,81690,13134,68556,1872
+2026-11-09,delhi/north,delhi,North,7~26/4,110361,22247,88114,3299
+2026-11-09,delhi/north-west,delhi,North West,7~26/5,170295,23922,146373,3956
+2026-11-09,delhi/south-west,delhi,South West,7~26/6,357179,22173,335006,1351
+2026-11-09,delhi/new-delhi,delhi,New Delhi,7~26/7,334742,17731,317011,4286
+2026-11-09,delhi/central,delhi,Central,7~26/8,215046,44613,170433,5973
+2026-11-09,delhi/west,delhi,West,7~26/9,109941,22264,87677,3034
+2026-11-09,delhi/south,delhi,South,7~26/10,115427,14553,100874,982
+2026-11-09,delhi/south-east,delhi,South East,7~26/11,150882,19052,131830,2725
+2026-11-09,goa/north-goa,goa,North Goa,30~30/1,44466,18083,26383,2740
+2026-11-09,goa/south-goa,goa,South Goa,30~30/2,17637,10302,7335,1009
+2026-11-09,gujarat/gandhinagar,gujarat,GANDHINAGAR,24~17/11,37290,12983,24307,1627
+2026-11-09,gujarat/ahmedabad,gujarat,Ahmedabad,24~17/13,666371,64404,601967,20759
+2026-11-09,gujarat/surat,gujarat,SURAT,24~17/14,143401,32185,111216,4337
+2026-11-09,gujarat/mahesana,gujarat,Mahesana,24~17/15,56721,9036,47685,557
+2026-11-09,gujarat/rajkot,gujarat,RAJKOT,24~17/16,105781,21321,84460,1962
+2026-11-09,gujarat/amreli,gujarat,Amreli,24~17/17,15613,4262,11351,304
+2026-11-09,gujarat/anand,gujarat,Anand,24~17/18,30484,11604,18880,1033
+2026-11-09,gujarat/banaskanth-at-palanpur,gujarat,Banaskanth at Palanpur,24~17/19,49981,7712,42269,658
+2026-11-09,gujarat/bharuch,gujarat,Bharuch,24~17/20,32235,13131,19104,1063
+2026-11-09,gujarat/bhavnagar,gujarat,Bhavnagar,24~17/21,38330,11591,26739,1967
+2026-11-09,gujarat/dahod,gujarat,Dahod,24~17/22,25117,5580,19537,123
+2026-11-09,gujarat/jamnagar,gujarat,Jamnagar,24~17/23,25048,5874,19174,458
+2026-11-09,gujarat/junagadh,gujarat,Junagadh,24~17/24,21157,5822,15335,434
+2026-11-09,gujarat/kheda-at-nadiad,gujarat,Kheda at Nadiad,24~17/25,30684,12165,18519,471
+2026-11-09,gujarat/kachchh-at-bhuj,gujarat,kachchh at Bhuj,24~17/26,53436,15230,38206,1552
+2026-11-09,gujarat/panchmahal-at-godhra,gujarat,Panchmahal at Godhra,24~17/27,23468,8220,15248,193
+2026-11-09,gujarat/patan,gujarat,Patan,24~17/28,19591,4232,15359,441
+2026-11-09,gujarat/sabarkantha-at-himmatnagar,gujarat,Sabarkantha at Himmatnagar,24~17/29,24457,4598,19859,77
+2026-11-09,gujarat/surendranagar,gujarat,Surendranagar,24~17/30,20138,5899,14239,433
+2026-11-09,gujarat/vadodara,gujarat,Vadodara,24~17/31,120276,28113,92163,2983
+2026-11-09,gujarat/navsari,gujarat,Navsari,24~17/32,14456,4204,10252,602
+2026-11-09,gujarat/narmada,gujarat,Narmada,24~17/33,8543,2480,6063,113
+2026-11-09,gujarat/tapi,gujarat,Tapi,24~17/34,6933,1319,5614,35
+2026-11-09,gujarat/valsad,gujarat,Valsad,24~17/35,32767,6071,26696,508
+2026-11-09,gujarat/porbandar,gujarat,Porbandar,24~17/36,7162,1917,5245,87
+2026-11-09,gujarat/gir-somnath-at-veraval,gujarat,Gir Somnath at Veraval,24~17/37,14610,3884,10726,319
+2026-11-09,gujarat/aravalli-at-modasa,gujarat,Aravalli at Modasa,24~17/38,11752,1765,9987,164
+2026-11-09,gujarat/morbi,gujarat,MORBI,24~17/39,24777,5132,19645,328
+2026-11-09,gujarat/devbhumi-dwarka-at-khambhaliya,gujarat,Devbhumi Dwarka at Khambhaliya,24~17/40,7707,2135,5572,229
+2026-11-09,gujarat/chhota-udepur,gujarat,Chhota Udepur,24~17/41,7796,2396,5400,43
+2026-11-09,gujarat/mahisagar-at-lunawada,gujarat,Mahisagar at Lunawada,24~17/42,7063,2152,4911,36
+2026-11-09,gujarat/botad,gujarat,BOTAD,24~17/43,7636,2697,4939,46
+2026-11-09,gujarat/dangs,gujarat,Dangs,24~17/87,0,0,0,0
+2026-11-09,gujarat/vav-tharad,gujarat,VAV THARAD,24~17/125,0,0,0,0
+2026-11-09,haryana/karnal,haryana,Karnal,6~14/1,93479,26160,67319,145
+2026-11-09,haryana/sirsa,haryana,Sirsa,6~14/2,54466,16110,38356,90
+2026-11-09,haryana/ambala,haryana,Ambala,6~14/3,63973,19924,44049,66
+2026-11-09,haryana/bhiwani,haryana,Bhiwani,6~14/4,49183,20020,29163,46
+2026-11-09,haryana/faridabad,haryana,Faridabad,6~14/5,180173,32632,147541,263
+2026-11-09,haryana/gurugram,haryana,Gurugram,6~14/6,299548,46154,253394,2022
+2026-11-09,haryana/hisar,haryana,Hisar,6~14/7,83480,25368,58112,88
+2026-11-09,haryana/jhajjar,haryana,Jhajjar,6~14/8,46615,16530,30085,51
+2026-11-09,haryana/jind,haryana,Jind,6~14/9,41808,14718,27090,31
+2026-11-09,haryana/kurukshetra,haryana,Kurukshetra,6~14/10,45010,17426,27584,143
+2026-11-09,haryana/narnaul,haryana,Narnaul,6~14/11,48995,22843,26152,74
+2026-11-09,haryana/rohtak,haryana,Rohtak,6~14/12,58844,14936,43908,68
+2026-11-09,haryana/sonepat,haryana,Sonepat,6~14/13,62722,22979,39743,126
+2026-11-09,haryana/panchkula,haryana,Panchkula,6~14/14,33120,11056,22064,225
+2026-11-09,haryana/fatehabad,haryana,Fatehabad,6~14/15,29739,9943,19796,36
+2026-11-09,haryana/kaithal,haryana,Kaithal,6~14/16,39446,16194,23252,84
+2026-11-09,haryana/rewari,haryana,Rewari,6~14/17,56658,22369,34289,106
+2026-11-09,haryana/panipat,haryana,Panipat,6~14/18,56020,16511,39509,115
+2026-11-09,haryana/nuh,haryana,Nuh,6~14/19,39491,14237,25254,58
+2026-11-09,haryana/yamunanagar,haryana,Yamunanagar,6~14/20,62517,25918,36599,105
+2026-11-09,haryana/palwal,haryana,Palwal,6~14/23,50618,19131,31487,127
+2026-11-09,haryana/charkhi-dadri,haryana,Charkhi Dadri,6~14/88,22282,9760,12522,13
+2026-11-09,himachal-pradesh/hamirpur,himachal-pradesh,Hamirpur,2~5/1,54439,18237,36202,209
+2026-11-09,himachal-pradesh/kangra,himachal-pradesh,Kangra,2~5/2,81130,39092,42038,1733
+2026-11-09,himachal-pradesh/sirmaur,himachal-pradesh,Sirmaur,2~5/3,39430,10612,28818,212
+2026-11-09,himachal-pradesh/una,himachal-pradesh,Una,2~5/4,43169,17826,25343,923
+2026-11-09,himachal-pradesh/solan,himachal-pradesh,Solan,2~5/5,65343,18621,46722,776
+2026-11-09,himachal-pradesh/mandi,himachal-pradesh,Mandi,2~5/6,67805,22094,45711,354
+2026-11-09,himachal-pradesh/bilaspur,himachal-pradesh,Bilaspur,2~5/7,36059,12528,23531,659
+2026-11-09,himachal-pradesh/chamba,himachal-pradesh,Chamba,2~5/8,19489,5947,13542,254
+2026-11-09,himachal-pradesh/kinnaur,himachal-pradesh,Kinnaur,2~5/9,24784,4834,19950,89
+2026-11-09,himachal-pradesh/kullu,himachal-pradesh,Kullu,2~5/10,58918,8983,49935,477
+2026-11-09,himachal-pradesh/shimla,himachal-pradesh,Shimla,2~5/11,70784,20632,50152,914
+2026-11-09,himachal-pradesh/lahaul-and-spiti,himachal-pradesh,Lahaul And Spiti,2~5/103,0,0,0,0
+2026-11-09,jammu-and-kashmir/kathua,jammu-and-kashmir,Kathua,1~12/1,14399,5465,8934,311
+2026-11-09,jammu-and-kashmir/udhampur,jammu-and-kashmir,Udhampur,1~12/2,13940,5756,8184,223
+2026-11-09,jammu-and-kashmir/baramulla,jammu-and-kashmir,Baramulla,1~12/3,26681,7515,19166,1391
+2026-11-09,jammu-and-kashmir/anantnag,jammu-and-kashmir,Anantnag,1~12/4,26248,10226,16022,1107
+2026-11-09,jammu-and-kashmir/srinagar,jammu-and-kashmir,Srinagar,1~12/5,66583,16210,50373,2412
+2026-11-09,jammu-and-kashmir/pulwama,jammu-and-kashmir,Pulwama,1~12/6,15106,4361,10745,298
+2026-11-09,jammu-and-kashmir/ganderbal,jammu-and-kashmir,Ganderbal,1~12/7,8327,2715,5612,266
+2026-11-09,jammu-and-kashmir/budgam,jammu-and-kashmir,Budgam,1~12/8,17095,5934,11161,438
+2026-11-09,jammu-and-kashmir/reasi,jammu-and-kashmir,Reasi,1~12/9,7099,2177,4922,174
+2026-11-09,jammu-and-kashmir/shopian,jammu-and-kashmir,Shopian,1~12/10,8267,2232,6035,680
+2026-11-09,jammu-and-kashmir/kupwara,jammu-and-kashmir,Kupwara,1~12/11,18578,5043,13535,1495
+2026-11-09,jammu-and-kashmir/poonch,jammu-and-kashmir,Poonch,1~12/12,8698,2666,6032,122
+2026-11-09,jammu-and-kashmir/rajouri,jammu-and-kashmir,Rajouri,1~12/13,13510,4324,9186,416
+2026-11-09,jammu-and-kashmir/ramban,jammu-and-kashmir,Ramban,1~12/14,8045,3490,4555,99
+2026-11-09,jammu-and-kashmir/doda,jammu-and-kashmir,Doda,1~12/15,8584,3536,5048,153
+2026-11-09,jammu-and-kashmir/bandipora,jammu-and-kashmir,Bandipora,1~12/18,7450,1775,5675,359
+2026-11-09,jammu-and-kashmir/jammu,jammu-and-kashmir,Jammu,1~12/19,77210,33038,44172,5325
+2026-11-09,jammu-and-kashmir/kulgam,jammu-and-kashmir,Kulgam,1~12/20,13335,4915,8420,519
+2026-11-09,jammu-and-kashmir/samba,jammu-and-kashmir,Samba,1~12/21,8441,3171,5270,383
+2026-11-09,jammu-and-kashmir/kishtwar,jammu-and-kashmir,Kishtwar,1~12/22,4171,1809,2362,140
+2026-11-09,jharkhand/bokaro,jharkhand,Bokaro,20~7/1,29383,5043,24340,671
+2026-11-09,jharkhand/dumka,jharkhand,Dumka,20~7/2,13805,2849,10956,1108
+2026-11-09,jharkhand/koderma,jharkhand,Koderma,20~7/3,17344,3293,14051,587
+2026-11-09,jharkhand/west-singhbhum-at-chaibasa,jharkhand,West Singhbhum at Chaibasa,20~7/4,6986,603,6383,202
+2026-11-09,jharkhand/gumla,jharkhand,Gumla,20~7/5,8883,1774,7109,446
+2026-11-09,jharkhand/godda,jharkhand,Godda,20~7/6,16714,1326,15388,1460
+2026-11-09,jharkhand/hazaribagh,jharkhand,Hazaribagh,20~7/7,45724,7215,38509,3311
+2026-11-09,jharkhand/lohardaga,jharkhand,Lohardaga,20~7/8,6569,1856,4713,118
+2026-11-09,jharkhand/dhanbad,jharkhand,Dhanbad,20~7/9,62988,14920,48068,4176
+2026-11-09,jharkhand/giridih,jharkhand,Giridih,20~7/10,47733,8447,39286,5441
+2026-11-09,jharkhand/east-singhbhum-at-jamshedpur,jharkhand,East Singhbhum at Jamshedpur,20~7/11,49666,6159,43507,3521
+2026-11-09,jharkhand/jamtara,jharkhand,Jamtara,20~7/12,6549,1008,5541,72
+2026-11-09,jharkhand/chatra,jharkhand,Chatra,20~7/13,24531,3120,21411,984
+2026-11-09,jharkhand/pakur,jharkhand,Pakur,20~7/14,5285,721,4564,168
+2026-11-09,jharkhand/seraikella,jharkhand,Seraikella,20~7/15,7845,1231,6614,510
+2026-11-09,jharkhand/deoghar,jharkhand,Deoghar,20~7/16,26750,4385,22365,945
+2026-11-09,jharkhand/daltonganj,jharkhand,Daltonganj,20~7/17,34241,7035,27206,1606
+2026-11-09,jharkhand/simdega,jharkhand,Simdega,20~7/18,3991,331,3660,29
+2026-11-09,jharkhand/latehar,jharkhand,Latehar,20~7/19,12494,2587,9907,282
+2026-11-09,jharkhand/garhwa,jharkhand,Garhwa,20~7/20,28358,4556,23802,2224
+2026-11-09,jharkhand/sahibganj,jharkhand,Sahibganj,20~7/21,19274,2031,17243,429
+2026-11-09,jharkhand/ranchi,jharkhand,Ranchi,20~7/22,84743,17085,67658,4432
+2026-11-09,jharkhand/ramgarh,jharkhand,RAMGARH,20~7/23,15948,2593,13355,1550
+2026-11-09,jharkhand/khunti,jharkhand,KHUNTI,20~7/24,5570,804,4766,57
+2026-11-09,karnataka/belagavi,karnataka,BELAGAVI,29~3/1,162420,82554,79866,4051
+2026-11-09,karnataka/bagalkot,karnataka,BAGALKOT,29~3/2,63051,37260,25791,1062
+2026-11-09,karnataka/vijayapura,karnataka,VIJAYAPURA,29~3/3,73806,43322,30484,1111
+2026-11-09,karnataka/kalaburagi,karnataka,KALABURAGI,29~3/4,59552,24835,34717,813
+2026-11-09,karnataka/bidar,karnataka,BIDAR,29~3/5,32140,14624,17516,465
+2026-11-09,karnataka/raichur,karnataka,RAICHUR,29~3/6,36544,18020,18524,417
+2026-11-09,karnataka/koppal,karnataka,KOPPAL,29~3/7,36751,16225,20526,193
+2026-11-09,karnataka/gadag,karnataka,GADAG,29~3/8,21634,11760,9874,188
+2026-11-09,karnataka/dharwad,karnataka,DHARWAD,29~3/9,55276,24578,30698,935
+2026-11-09,karnataka/uttara-kannada,karnataka,UTTARA KANNADA,29~3/10,44657,19237,25420,755
+2026-11-09,karnataka/haveri,karnataka,HAVERI,29~3/11,50078,26710,23368,871
+2026-11-09,karnataka/ballari,karnataka,BALLARI,29~3/12,35610,16882,18728,691
+2026-11-09,karnataka/chitradurga,karnataka,CHITRADURGA,29~3/13,52922,29031,23891,398
+2026-11-09,karnataka/davangere,karnataka,DAVANGERE,29~3/14,43838,22395,21443,575
+2026-11-09,karnataka/shivamogga,karnataka,SHIVAMOGGA,29~3/15,54806,24680,30126,472
+2026-11-09,karnataka/udupi,karnataka,UDUPI,29~3/16,36339,15983,20356,721
+2026-11-09,karnataka/chikkamagaluru,karnataka,CHIKKAMAGALURU,29~3/17,40788,20666,20122,409
+2026-11-09,karnataka/tumakuru,karnataka,TUMAKURU,29~3/18,106938,65254,41684,3319
+2026-11-09,karnataka/kolar,karnataka,KOLAR,29~3/19,58119,32714,25405,1569
+2026-11-09,karnataka/bengaluru,karnataka,BENGALURU,29~3/20,492798,105009,387789,17940
+2026-11-09,karnataka/bengaluru-rural,karnataka,BENGALURU RURAL,29~3/21,175095,98392,76703,19212
+2026-11-09,karnataka/mandya,karnataka,MANDYA,29~3/22,85924,42436,43488,3191
+2026-11-09,karnataka/hassan,karnataka,HASSAN,29~3/23,94500,47653,46847,2046
+2026-11-09,karnataka/dakshina-kannada,karnataka,DAKSHINA KANNADA,29~3/24,56461,21414,35047,1201
+2026-11-09,karnataka/kodagu,karnataka,KODAGU,29~3/25,16507,5791,10716,192
+2026-11-09,karnataka/mysuru,karnataka,MYSURU,29~3/26,129932,64729,65203,4322
+2026-11-09,karnataka/chamrajnagar,karnataka,CHAMRAJNAGAR,29~3/27,26816,14091,12725,408
+2026-11-09,karnataka/ramanagara,karnataka,RAMANAGARA,29~3/28,60261,34328,25933,2540
+2026-11-09,karnataka/chikkaballapur,karnataka,CHIKKABALLAPUR,29~3/29,51206,27807,23399,2039
+2026-11-09,karnataka/yadgir,karnataka,YADGIR,29~3/30,20777,9348,11429,103
+2026-11-09,karnataka/vijayanagar,karnataka,VIJAYANAGAR,29~3/31,31153,14508,16645,409
+2026-11-09,kerala/kasaragod,kerala,Kasaragod,32~4/1,25017,7247,17770,198
+2026-11-09,kerala/ernakulam,kerala,Ernakulam,32~4/2,276539,63083,213456,4460
+2026-11-09,kerala/kannur,kerala,Kannur,32~4/3,76406,33210,43196,805
+2026-11-09,kerala/thrissur,kerala,Thrissur,32~4/4,206893,76493,130400,3583
+2026-11-09,kerala/kozhikode,kerala,Kozhikode,32~4/5,106653,38239,68414,888
+2026-11-09,kerala/alappuzha,kerala,Alappuzha,32~4/6,87103,36066,51037,809
+2026-11-09,kerala/idukki,kerala,Idukki,32~4/7,49234,12241,36993,396
+2026-11-09,kerala/palakkad,kerala,Palakkad,32~4/8,110295,43443,66852,1358
+2026-11-09,kerala/thiruvananthapuram,kerala,Thiruvananthapuram,32~4/9,337380,84939,252441,11688
+2026-11-09,kerala/kottayam,kerala,Kottayam,32~4/10,66096,27825,38271,577
+2026-11-09,kerala/malappuram,kerala,Malappuram,32~4/11,104183,30806,73377,927
+2026-11-09,kerala/pathanamthitta,kerala,Pathanamthitta,32~4/12,68595,20077,48518,1790
+2026-11-09,kerala/kollam,kerala,Kollam,32~4/15,168743,41156,127587,4162
+2026-11-09,kerala/wayanad,kerala,Wayanad,32~4/16,27603,6563,21040,186
+2026-11-09,ladakh/kargil,ladakh,Kargil,37~33/1,833,406,427,4
+2026-11-09,ladakh/leh,ladakh,Leh,37~33/2,879,398,481,5
+2026-11-09,lakshadweep/lakshadweep,lakshadweep,Lakshadweep,31~37/1,577,139,438,20
+2026-11-09,madhya-pradesh/jabalpur,madhya-pradesh,Jabalpur,23~23/1,148710,44793,103917,2302
+2026-11-09,madhya-pradesh/narsinghpur,madhya-pradesh,Narsinghpur,23~23/2,22015,2580,19435,64
+2026-11-09,madhya-pradesh/hoshangabad,madhya-pradesh,Hoshangabad,23~23/3,32354,4531,27823,153
+2026-11-09,madhya-pradesh/harda,madhya-pradesh,Harda,23~23/4,13269,1929,11340,50
+2026-11-09,madhya-pradesh/umaria,madhya-pradesh,Umaria,23~23/5,11354,2203,9151,81
+2026-11-09,madhya-pradesh/dindori,madhya-pradesh,Dindori,23~23/6,12589,1988,10601,15
+2026-11-09,madhya-pradesh/panna,madhya-pradesh,Panna,23~23/7,20428,2901,17527,76
+2026-11-09,madhya-pradesh/alirajpur,madhya-pradesh,Alirajpur,23~23/8,8895,1411,7484,2
+2026-11-09,madhya-pradesh/jhabua,madhya-pradesh,Jhabua,23~23/9,19977,3975,16002,12
+2026-11-09,madhya-pradesh/khandwa,madhya-pradesh,Khandwa,23~23/10,22283,3465,18818,76
+2026-11-09,madhya-pradesh/shahdol,madhya-pradesh,Shahdol,23~23/11,32005,7619,24386,339
+2026-11-09,madhya-pradesh/sheopur,madhya-pradesh,Sheopur,23~23/12,10729,1561,9168,7
+2026-11-09,madhya-pradesh/datia,madhya-pradesh,Datia,23~23/13,19492,3589,15903,33
+2026-11-09,madhya-pradesh/rajgarh,madhya-pradesh,Rajgarh,23~23/14,40474,4491,35983,36
+2026-11-09,madhya-pradesh/morena,madhya-pradesh,Morena,23~23/15,48627,6643,41984,190
+2026-11-09,madhya-pradesh/mandleshwar,madhya-pradesh,Mandleshwar,23~23/16,27562,4789,22773,38
+2026-11-09,madhya-pradesh/neemuch,madhya-pradesh,Neemuch,23~23/17,24175,4677,19498,113
+2026-11-09,madhya-pradesh/barwani,madhya-pradesh,Barwani,23~23/18,16637,2595,14042,38
+2026-11-09,madhya-pradesh/shajapur,madhya-pradesh,Shajapur,23~23/19,23761,4277,19484,102
+2026-11-09,madhya-pradesh/chhindwara,madhya-pradesh,Chhindwara,23~23/20,40544,10918,29626,101
+2026-11-09,madhya-pradesh/sidhi,madhya-pradesh,Sidhi,23~23/21,37574,10452,27122,407
+2026-11-09,madhya-pradesh/anuppur,madhya-pradesh,Anuppur,23~23/22,14292,3316,10976,39
+2026-11-09,madhya-pradesh/shivpuri,madhya-pradesh,Shivpuri,23~23/23,37913,4380,33533,59
+2026-11-09,madhya-pradesh/raisen,madhya-pradesh,Raisen,23~23/24,25898,2867,23031,101
+2026-11-09,madhya-pradesh/sehore,madhya-pradesh,Sehore,23~23/25,27508,4849,22659,90
+2026-11-09,madhya-pradesh/balaghat,madhya-pradesh,Balaghat,23~23/26,27994,6422,21572,107
+2026-11-09,madhya-pradesh/damoh,madhya-pradesh,Damoh,23~23/27,22836,3285,19551,15
+2026-11-09,madhya-pradesh/vidisha,madhya-pradesh,Vidisha,23~23/28,35382,6274,29108,70
+2026-11-09,madhya-pradesh/bhind,madhya-pradesh,Bhind,23~23/29,36309,9014,27295,187
+2026-11-09,madhya-pradesh/guna,madhya-pradesh,Guna,23~23/30,34815,5010,29805,93
+2026-11-09,madhya-pradesh/singrauli,madhya-pradesh,Singrauli,23~23/31,46298,8442,37856,844
+2026-11-09,madhya-pradesh/satna,madhya-pradesh,Satna,23~23/32,72011,19462,52549,840
+2026-11-09,madhya-pradesh/seoni,madhya-pradesh,Seoni,23~23/33,27470,7985,19485,130
+2026-11-09,madhya-pradesh/katni,madhya-pradesh,Katni,23~23/34,41991,8248,33743,119
+2026-11-09,madhya-pradesh/mandsaur,madhya-pradesh,Mandsaur,23~23/35,43690,9198,34492,130
+2026-11-09,madhya-pradesh/tikamgarh,madhya-pradesh,Tikamgarh,23~23/36,32293,5448,26845,25
+2026-11-09,madhya-pradesh/betul,madhya-pradesh,Betul,23~23/37,26835,7129,19706,45
+2026-11-09,madhya-pradesh/dhar,madhya-pradesh,Dhar,23~23/38,49451,10924,38527,72
+2026-11-09,madhya-pradesh/chhatarpur,madhya-pradesh,Chhatarpur,23~23/39,45045,8077,36968,55
+2026-11-09,madhya-pradesh/dewas,madhya-pradesh,Dewas,23~23/40,42316,5831,36485,70
+2026-11-09,madhya-pradesh/mandla,madhya-pradesh,Mandla,23~23/41,15497,4557,10940,59
+2026-11-09,madhya-pradesh/ratlam,madhya-pradesh,Ratlam,23~23/42,47503,7516,39987,89
+2026-11-09,madhya-pradesh/sagar,madhya-pradesh,Sagar,23~23/43,74276,11364,62912,264
+2026-11-09,madhya-pradesh/gwalior,madhya-pradesh,Gwalior,23~23/44,94014,23758,70256,1043
+2026-11-09,madhya-pradesh/ujjain,madhya-pradesh,Ujjain,23~23/45,74172,13058,61114,449
+2026-11-09,madhya-pradesh/rewa,madhya-pradesh,Rewa,23~23/46,102125,29847,72278,2988
+2026-11-09,madhya-pradesh/indore,madhya-pradesh,Indore,23~23/47,250473,48552,201921,11261
+2026-11-09,madhya-pradesh/ashoknagr,madhya-pradesh,Ashoknagr,23~23/48,17388,2927,14461,39
+2026-11-09,madhya-pradesh/burhanpur,madhya-pradesh,Burhanpur,23~23/49,11663,2154,9509,33
+2026-11-09,madhya-pradesh/bhopal,madhya-pradesh,Bhopal,23~23/50,150970,28928,122042,1078
+2026-11-09,madhya-pradesh/agar-malwa,madhya-pradesh,Agar Malwa,23~23/51,15124,2668,12456,76
+2026-11-09,maharashtra/nandurbar,maharashtra,Nandurbar,27~1/1,33889,8628,25261,612
+2026-11-09,maharashtra/dhule,maharashtra,Dhule,27~1/2,56161,19925,36236,1560
+2026-11-09,maharashtra/jalgaon,maharashtra,Jalgaon,27~1/3,143419,46893,96526,7522
+2026-11-09,maharashtra/buldhana,maharashtra,Buldhana,27~1/4,121364,27828,93536,5288
+2026-11-09,maharashtra/akola,maharashtra,Akola,27~1/5,111091,24449,86642,4223
+2026-11-09,maharashtra/amravati,maharashtra,Amravati,27~1/7,163498,38492,125006,3462
+2026-11-09,maharashtra/wardha,maharashtra,Wardha,27~1/8,89675,14926,74749,832
+2026-11-09,maharashtra/nagpur,maharashtra,Nagpur,27~1/9,327179,79978,247201,25967
+2026-11-09,maharashtra/bhandara,maharashtra,Bhandara,27~1/10,40666,9479,31187,255
+2026-11-09,maharashtra/gondia,maharashtra,Gondia,27~1/11,36084,9862,26222,398
+2026-11-09,maharashtra/gadchiroli,maharashtra,Gadchiroli,27~1/12,23335,4501,18834,149
+2026-11-09,maharashtra/chandrapur,maharashtra,Chandrapur,27~1/13,108876,22228,86648,4581
+2026-11-09,maharashtra/yavatmal,maharashtra,Yavatmal,27~1/14,139288,27377,111911,6109
+2026-11-09,maharashtra/nanded,maharashtra,Nanded,27~1/15,130195,44326,85869,7219
+2026-11-09,maharashtra/hingoli,maharashtra,Hingoli,27~1/16,47524,15198,32326,1074
+2026-11-09,maharashtra/parbhani,maharashtra,Parbhani,27~1/17,83322,23383,59939,1418
+2026-11-09,maharashtra/jalna,maharashtra,Jalna,27~1/18,96425,31402,65023,4274
+2026-11-09,maharashtra/aurangabad,maharashtra,Aurangabad,27~1/19,280155,77685,202470,12182
+2026-11-09,maharashtra/nashik,maharashtra,Nashik,27~1/20,266061,90381,175680,19480
+2026-11-09,maharashtra/thane,maharashtra,Thane,27~1/21,545937,113230,432707,50834
+2026-11-09,maharashtra/mumbai-suburban,maharashtra,Mumbai (Suburban),27~1/22,0,0,0,0
+2026-11-09,maharashtra/mumbai-cmm-courts,maharashtra,Mumbai CMM Courts,27~1/23,694771,0,694771,104708
+2026-11-09,maharashtra/raigad,maharashtra,Raigad,27~1/24,116241,47758,68483,13336
+2026-11-09,maharashtra/pune,maharashtra,Pune,27~1/25,895912,196485,699427,76766
+2026-11-09,maharashtra/ahmednagar,maharashtra,Ahmednagar,27~1/26,260168,91168,169000,12685
+2026-11-09,maharashtra/beed,maharashtra,Beed,27~1/27,136220,53045,83175,6889
+2026-11-09,maharashtra/latur,maharashtra,Latur,27~1/28,114095,50183,63912,6732
+2026-11-09,maharashtra/osmanabad,maharashtra,Osmanabad,27~1/29,98330,47007,51323,5530
+2026-11-09,maharashtra/solapur,maharashtra,Solapur,27~1/30,262305,96916,165389,18583
+2026-11-09,maharashtra/satara,maharashtra,Satara,27~1/31,136336,56683,79653,8896
+2026-11-09,maharashtra/ratnagiri,maharashtra,Ratnagiri,27~1/32,32997,14693,18304,1111
+2026-11-09,maharashtra/sindhudurg,maharashtra,Sindhudurg,27~1/33,22226,11462,10764,1495
+2026-11-09,maharashtra/kolhapur,maharashtra,Kolhapur,27~1/34,184584,63523,121061,10813
+2026-11-09,maharashtra/sangli,maharashtra,Sangli,27~1/35,126561,52290,74271,5907
+2026-11-09,maharashtra/washim,maharashtra,Washim,27~1/36,52655,12351,40304,2073
+2026-11-09,maharashtra/mumbai-city-civil-court,maharashtra,Mumbai City Civil Court,27~1/37,157673,102866,54807,13309
+2026-11-09,maharashtra/mumbai-small-causes-court,maharashtra,Mumbai Small Causes Court,27~1/38,27222,27222,0,6552
+2026-11-09,maharashtra/mumbai-motor-accident-claims-t,maharashtra,Mumbai Motor Accident Claims T,27~1/39,7135,7135,0,13
+2026-11-09,maharashtra/maharashtra-industrial-and-lab,maharashtra,Maharashtra Industrial and Lab,27~1/40,57953,57879,74,2361
+2026-11-09,maharashtra/mah-state-cooperative-appellat,maharashtra,Mah State Cooperative Appellat,27~1/41,21682,21682,0,1954
+2026-11-09,maharashtra/maharashtra-family-courts,maharashtra,Maharashtra Family Courts,27~1/42,67683,50654,17029,165
+2026-11-09,maharashtra/maharashtra-school-tribunals,maharashtra,Maharashtra School Tribunals,27~1/43,1041,1041,0,94
+2026-11-09,maharashtra/palghar,maharashtra,PALGHAR,27~1/118,0,0,0,0
+2026-11-09,manipur/imphal-east,manipur,Imphal East,14~25/1,3496,2262,1234,82
+2026-11-09,manipur/imphal-west,manipur,Imphal West,14~25/2,7118,4957,2161,377
+2026-11-09,manipur/bishnupur,manipur,Bishnupur,14~25/3,1230,755,475,96
+2026-11-09,manipur/thoubal,manipur,Thoubal,14~25/4,1698,834,864,38
+2026-11-09,manipur/senapati,manipur,Senapati,14~25/5,397,123,274,8
+2026-11-09,manipur/churachandpur,manipur,Churachandpur,14~25/6,399,195,204,12
+2026-11-09,manipur/ukhrul,manipur,Ukhrul,14~25/7,187,122,65,7
+2026-11-09,manipur/chandel,manipur,Chandel,14~25/8,169,69,100,6
+2026-11-09,manipur/tamenglong,manipur,Tamenglong,14~25/9,161,141,20,12
+2026-11-09,meghalaya/east-khasi-hills,meghalaya,East Khasi Hills,17~21/1,6108,2119,3989,764
+2026-11-09,meghalaya/west-garo-hills,meghalaya,West Garo Hills,17~21/2,1442,207,1235,44
+2026-11-09,meghalaya/west-jaintia-hills,meghalaya,West Jaintia Hills,17~21/3,800,103,697,97
+2026-11-09,meghalaya/east-garo-hills,meghalaya,East Garo Hills,17~21/4,751,176,575,33
+2026-11-09,meghalaya/ri-bhoi,meghalaya,Ri Bhoi,17~21/5,2163,539,1624,212
+2026-11-09,meghalaya/south-west-khasi-hills,meghalaya,South West Khasi Hills,17~21/6,102,11,91,2
+2026-11-09,meghalaya/west-khasi-hills,meghalaya,West Khasi Hills,17~21/7,299,24,275,3
+2026-11-09,meghalaya/south-west-garo-hills,meghalaya,South West Garo Hills,17~21/8,339,51,288,0
+2026-11-09,meghalaya/khadc-court,meghalaya,KHADC Court,17~21/9,5264,1486,3778,578
+2026-11-09,meghalaya/north-garo-hills,meghalaya,North Garo Hills,17~21/10,361,58,303,30
+2026-11-09,meghalaya/east-jaintia-hills,meghalaya,East Jaintia Hills,17~21/11,993,73,920,117
+2026-11-09,meghalaya/south-garo-hills,meghalaya,South Garo Hills,17~21/12,231,9,222,2
+2026-11-09,meghalaya/eastern-west-khasi-hills,meghalaya,Eastern West Khasi Hills,17~21/13,44,0,44,0
+2026-11-09,meghalaya/jhadc-court,meghalaya,JHADC Court,17~21/114,1228,595,633,157
+2026-11-09,meghalaya/ghadc-court,meghalaya,GHADC Court,17~21/135,176,44,132,27
+2026-11-09,mizoram/aizawl,mizoram,Aizawl,15~19/1,5956,3467,2489,21
+2026-11-09,mizoram/lunglei,mizoram,Lunglei,15~19/2,1032,547,485,1
+2026-11-09,mizoram/kolasib,mizoram,KOLASIB,15~19/3,0,0,0,0
+2026-11-09,mizoram/champhai,mizoram,Champhai,15~19/4,3332,610,2722,0
+2026-11-09,mizoram/mamit,mizoram,MAMIT,15~19/119,0,0,0,0
+2026-11-09,mizoram/serchhip,mizoram,SERCHHIP,15~19/120,0,0,0,0
+2026-11-09,mizoram/saiha,mizoram,SAIHA,15~19/121,0,0,0,0
+2026-11-09,mizoram/lawngtlai,mizoram,LAWNGTLAI,15~19/122,0,0,0,0
+2026-11-09,mizoram/saitual,mizoram,SAITUAL,15~19/123,0,0,0,0
+2026-11-09,mizoram/hnahthial,mizoram,HNAHTHIAL,15~19/126,0,0,0,0
+2026-11-09,mizoram/khawzawl,mizoram,KHAWZAWL,15~19/127,0,0,0,0
+2026-11-09,nagaland/dimapur,nagaland,Dimapur,13~34/1,2136,470,1666,187
+2026-11-09,nagaland/kohima,nagaland,Kohima,13~34/2,650,152,498,17
+2026-11-09,nagaland/mokokchung,nagaland,Mokokchung,13~34/3,275,166,109,1
+2026-11-09,nagaland/wokha,nagaland,Wokha,13~34/4,280,123,157,21
+2026-11-09,nagaland/zunheboto,nagaland,Zunheboto,13~34/5,60,18,42,2
+2026-11-09,nagaland/phek,nagaland,Phek,13~34/6,23,5,18,0
+2026-11-09,nagaland/mon,nagaland,Mon,13~34/7,87,0,87,0
+2026-11-09,nagaland/longleng,nagaland,Longleng,13~34/8,54,1,53,0
+2026-11-09,nagaland/tuensang,nagaland,Tuensang,13~34/9,118,47,71,2
+2026-11-09,nagaland/peren,nagaland,Peren,13~34/11,81,3,78,1
+2026-11-09,nagaland/kiphire,nagaland,Kiphire,13~34/12,31,8,23,0
+2026-11-09,odisha/cuttack,odisha,Cuttack,21~11/1,169349,30329,139020,17348
+2026-11-09,odisha/kendrapada,odisha,Kendrapada,21~11/2,62552,14183,48369,10235
+2026-11-09,odisha/nuapada,odisha,Nuapada,21~11/3,20935,1812,19123,977
+2026-11-09,odisha/ganjam,odisha,Ganjam,21~11/4,108779,8966,99813,9507
+2026-11-09,odisha/balasore,odisha,Balasore,21~11/5,133665,36115,97550,20608
+2026-11-09,odisha/koraput,odisha,Koraput,21~11/6,41025,4110,36915,2487
+2026-11-09,odisha/dhenkanal,odisha,Dhenkanal,21~11/7,57885,7117,50768,2982
+2026-11-09,odisha/khurda,odisha,Khurda,21~11/8,217310,34519,182791,61261
+2026-11-09,odisha/gajapati,odisha,Gajapati,21~11/9,6920,401,6519,46
+2026-11-09,odisha/kalahandi,odisha,Kalahandi,21~11/10,39195,3908,35287,2001
+2026-11-09,odisha/sambalpur,odisha,Sambalpur,21~11/11,89873,4523,85350,14793
+2026-11-09,odisha/jharsuguda,odisha,Jharsuguda,21~11/12,50779,2606,48173,8226
+2026-11-09,odisha/keonjhar,odisha,Keonjhar,21~11/13,63748,7763,55985,9350
+2026-11-09,odisha/jagatsinghpur,odisha,Jagatsinghpur,21~11/14,36982,8907,28075,3326
+2026-11-09,odisha/puri,odisha,Puri,21~11/15,75750,18798,56952,12460
+2026-11-09,odisha/sundargarh,odisha,Sundargarh,21~11/16,102817,8766,94051,14223
+2026-11-09,odisha/balangir,odisha,Balangir,21~11/17,61302,5590,55712,6290
+2026-11-09,odisha/bhadrak,odisha,Bhadrak,21~11/18,107390,23139,84251,19363
+2026-11-09,odisha/jajpur,odisha,Jajpur,21~11/19,78429,14613,63816,14405
+2026-11-09,odisha/sonepur,odisha,Sonepur,21~11/20,24087,2369,21718,1546
+2026-11-09,odisha/rayagada,odisha,Rayagada,21~11/21,16577,1506,15071,294
+2026-11-09,odisha/nayagarh,odisha,Nayagarh,21~11/22,37035,4674,32361,2049
+2026-11-09,odisha/kandhamal,odisha,Kandhamal,21~11/23,19882,789,19093,278
+2026-11-09,odisha/boudh,odisha,Boudh,21~11/24,16378,760,15618,684
+2026-11-09,odisha/mayurbhanj,odisha,Mayurbhanj,21~11/26,69070,10488,58582,10500
+2026-11-09,odisha/anugul,odisha,Anugul,21~11/27,87047,6370,80677,13689
+2026-11-09,odisha/bargarh,odisha,Bargarh,21~11/29,61397,5292,56105,7573
+2026-11-09,odisha/deogarh,odisha,Deogarh,21~11/30,16242,819,15423,1220
+2026-11-09,odisha/malkangiri,odisha,Malkangiri,21~11/31,11521,597,10924,62
+2026-11-09,odisha/nabarangpur,odisha,Nabarangpur,21~11/32,16919,626,16293,1615
+2026-11-09,puducherry/puducherry,puducherry,Puducherry,34~35/28,31737,9844,21893,1665
+2026-11-09,puducherry/karaikal,puducherry,Karaikal,34~35/34,4741,1283,3458,125
+2026-11-09,puducherry/mahe,puducherry,Mahe,34~35/35,357,147,210,3
+2026-11-09,puducherry/yanam,puducherry,Yanam,34~35/36,533,169,364,6
+2026-11-09,punjab/ludhiana,punjab,Ludhiana,3~22/1,264164,55535,208629,798
+2026-11-09,punjab/jalandhar,punjab,Jalandhar,3~22/2,92669,35276,57393,217
+2026-11-09,punjab/rupnagar,punjab,Rupnagar,3~22/3,26445,14490,11955,57
+2026-11-09,punjab/fatehgarh-sahib,punjab,Fatehgarh Sahib,3~22/4,19899,9977,9922,81
+2026-11-09,punjab/patiala,punjab,Patiala,3~22/5,76237,38503,37734,310
+2026-11-09,punjab/ferozepur,punjab,Ferozepur,3~22/6,25781,11037,14744,23
+2026-11-09,punjab/amritsar,punjab,Amritsar,3~22/8,85202,30034,55168,302
+2026-11-09,punjab/faridkot,punjab,Faridkot,3~22/9,18180,8288,9892,59
+2026-11-09,punjab/gurdaspur,punjab,Gurdaspur,3~22/10,36435,17270,19165,126
+2026-11-09,punjab/kapurthala,punjab,Kapurthala,3~22/11,25096,9668,15428,69
+2026-11-09,punjab/moga,punjab,Moga,3~22/12,22597,9212,13385,47
+2026-11-09,punjab/mansa,punjab,Mansa,3~22/13,20367,7067,13300,30
+2026-11-09,punjab/sri-muktsar-sahib,punjab,Sri Muktsar Sahib,3~22/14,23956,8056,15900,46
+2026-11-09,punjab/sbs-nagar,punjab,SBS Nagar,3~22/15,13560,6452,7108,45
+2026-11-09,punjab/barnala,punjab,Barnala,3~22/16,16888,6322,10566,25
+2026-11-09,punjab/bathinda,punjab,Bathinda,3~22/17,50846,19739,31107,102
+2026-11-09,punjab/hoshiarpur,punjab,Hoshiarpur,3~22/18,39945,19896,20049,133
+2026-11-09,punjab/sangrur,punjab,Sangrur,3~22/19,36793,15557,21236,114
+2026-11-09,punjab/pathankot,punjab,Pathankot,3~22/21,21535,10370,11165,14
+2026-11-09,punjab/tarn-taran,punjab,Tarn Taran,3~22/23,19873,6373,13500,34
+2026-11-09,punjab/sas-nagar,punjab,SAS Nagar,3~22/24,54451,25417,29034,153
+2026-11-09,punjab/fazilka,punjab,Fazilka,3~22/26,31541,12602,18939,25
+2026-11-09,punjab/malerkotla,punjab,Malerkotla,3~22/124,13160,6057,7103,50
+2026-11-09,rajasthan/rajsamand,rajasthan,Rajsamand,8~9/1,36651,8865,27786,395
+2026-11-09,rajasthan/alwar,rajasthan,Alwar,8~9/2,79430,18351,61079,1411
+2026-11-09,rajasthan/dausa,rajasthan,Dausa,8~9/3,39554,7895,31659,262
+2026-11-09,rajasthan/jaipur-metro-i,rajasthan,Jaipur Metro I,8~9/4,468594,62298,406296,8239
+2026-11-09,rajasthan/tonk,rajasthan,Tonk,8~9/5,41798,10090,31708,509
+2026-11-09,rajasthan/bikaner,rajasthan,Bikaner,8~9/6,57799,14893,42906,1520
+2026-11-09,rajasthan/ganganagar,rajasthan,Ganganagar,8~9/7,72616,15506,57110,763
+2026-11-09,rajasthan/merta-nagaur,rajasthan,Merta Nagaur,8~9/8,27484,7040,20444,639
+2026-11-09,rajasthan/udaipur,rajasthan,Udaipur,8~9/9,114596,18497,96099,2901
+2026-11-09,rajasthan/bundi,rajasthan,Bundi,8~9/10,30249,7156,23093,54
+2026-11-09,rajasthan/hanumangarh,rajasthan,Hanumangarh,8~9/11,48315,12124,36191,215
+2026-11-09,rajasthan/baran,rajasthan,Baran,8~9/12,30423,4079,26344,83
+2026-11-09,rajasthan/bharatpur,rajasthan,Bharatpur,8~9/13,43519,10989,32530,316
+2026-11-09,rajasthan/ajmer,rajasthan,Ajmer,8~9/14,76131,20721,55410,1091
+2026-11-09,rajasthan/jhunjhunu,rajasthan,Jhunjhunu,8~9/18,44532,10206,34326,431
+2026-11-09,rajasthan/pali,rajasthan,Pali,8~9/19,57745,12623,45122,1346
+2026-11-09,rajasthan/kota,rajasthan,Kota,8~9/20,109418,16999,92419,1902
+2026-11-09,rajasthan/jalore,rajasthan,Jalore,8~9/21,25221,4860,20361,332
+2026-11-09,rajasthan/jhalawar,rajasthan,Jhalawar,8~9/22,38240,4210,34030,141
+2026-11-09,rajasthan/pratapgarh,rajasthan,Pratapgarh,8~9/23,13729,2252,11477,53
+2026-11-09,rajasthan/dungarpur,rajasthan,Dungarpur,8~9/24,16039,2567,13472,18
+2026-11-09,rajasthan/banswara,rajasthan,Banswara,8~9/25,19791,2691,17100,48
+2026-11-09,rajasthan/sirohi,rajasthan,Sirohi,8~9/26,25995,5784,20211,212
+2026-11-09,rajasthan/barmer,rajasthan,BARMER,8~9/27,25831,5469,20362,1120
+2026-11-09,rajasthan/jodhpur-metro,rajasthan,Jodhpur Metro,8~9/28,118588,21555,97033,3431
+2026-11-09,rajasthan/karauli,rajasthan,Karauli,8~9/29,24805,4194,20611,191
+2026-11-09,rajasthan/chittorgarh,rajasthan,Chittorgarh,8~9/30,48854,9277,39577,401
+2026-11-09,rajasthan/bhilwara,rajasthan,Bhilwara,8~9/31,82529,16837,65692,677
+2026-11-09,rajasthan/jaisalmer,rajasthan,Jaisalmer,8~9/32,11988,1501,10487,83
+2026-11-09,rajasthan/churu,rajasthan,Churu,8~9/33,37260,8549,28711,431
+2026-11-09,rajasthan/dholpur,rajasthan,Dholpur,8~9/34,28260,6074,22186,351
+2026-11-09,rajasthan/sikar,rajasthan,Sikar,8~9/35,67114,18829,48285,538
+2026-11-09,rajasthan/sawai-madhopur,rajasthan,Sawai Madhopur,8~9/36,32239,8494,23745,127
+2026-11-09,rajasthan/jaipur-district,rajasthan,Jaipur District,8~9/38,47634,14180,33454,1656
+2026-11-09,rajasthan/jodhpur-district,rajasthan,Jodhpur District,8~9/39,20877,3199,17678,669
+2026-11-09,rajasthan/jaipur-metro-ii,rajasthan,Jaipur Metro II,8~9/40,385132,34072,351060,7684
+2026-11-09,rajasthan/beawer,rajasthan,BEAWER,8~9/106,40372,9850,30522,596
+2026-11-09,rajasthan/balotra,rajasthan,BALOTRA,8~9/107,11012,2292,8720,195
+2026-11-09,rajasthan/deeg,rajasthan,DEEG,8~9/108,24560,4539,20021,1010
+2026-11-09,rajasthan/kotputli-behror,rajasthan,KOTPUTLI BEHROR,8~9/109,42441,13508,28933,738
+2026-11-09,rajasthan/phalodi,rajasthan,PHALODI,8~9/110,9566,1210,8356,89
+2026-11-09,rajasthan/salumber,rajasthan,SALUMBER,8~9/111,8510,785,7725,59
+2026-11-09,rajasthan/didwana-kuchaman,rajasthan,DIDWANA KUCHAMAN,8~9/112,22399,5611,16788,144
+2026-11-09,rajasthan/khairtal-tijara,rajasthan,KHAIRTAL TIJARA,8~9/113,34830,8560,26270,645
+2026-11-09,sikkim/namchi,sikkim,Namchi,11~24/1,603,249,354,0
+2026-11-09,sikkim/mangan,sikkim,Mangan,11~24/2,49,23,26,0
+2026-11-09,sikkim/gyalshing,sikkim,Gyalshing,11~24/3,162,72,90,0
+2026-11-09,sikkim/gangtok,sikkim,Gangtok,11~24/4,1057,470,587,4
+2026-11-09,sikkim/pakyong,sikkim,PAKYONG,11~24/6,349,116,233,0
+2026-11-09,sikkim/soreng,sikkim,SORENG,11~24/7,154,79,75,0
+2026-11-09,tamil-nadu/dharmapuri,tamil-nadu,Dharmapuri,33~10/1,29722,15880,13842,692
+2026-11-09,tamil-nadu/pudukkottai,tamil-nadu,Pudukkottai,33~10/2,34712,14079,20633,912
+2026-11-09,tamil-nadu/tirunelveli,tamil-nadu,Tirunelveli,33~10/3,68397,18623,49774,930
+2026-11-09,tamil-nadu/theni,tamil-nadu,Theni,33~10/4,33658,9808,23850,305
+2026-11-09,tamil-nadu/namakkal,tamil-nadu,Namakkal,33~10/5,33143,17889,15254,595
+2026-11-09,tamil-nadu/nagapattinam,tamil-nadu,Nagapattinam,33~10/6,14113,5617,8496,188
+2026-11-09,tamil-nadu/kanniyakumari,tamil-nadu,Kanniyakumari,33~10/7,57223,16065,41158,1137
+2026-11-09,tamil-nadu/tiruchirappalli,tamil-nadu,Tiruchirappalli,33~10/8,69584,29141,40443,1908
+2026-11-09,tamil-nadu/thoothukudi,tamil-nadu,Thoothukudi,33~10/9,54421,13799,40622,498
+2026-11-09,tamil-nadu/viluppuram,tamil-nadu,Viluppuram,33~10/10,46922,20038,26884,1047
+2026-11-09,tamil-nadu/vellore,tamil-nadu,Vellore,33~10/11,27093,12817,14276,1046
+2026-11-09,tamil-nadu/salem,tamil-nadu,Salem,33~10/12,78286,40850,37436,2757
+2026-11-09,tamil-nadu/chennai,tamil-nadu,Chennai,33~10/13,130398,45450,84948,3766
+2026-11-09,tamil-nadu/virudhunagar,tamil-nadu,Virudhunagar,33~10/14,46572,16819,29753,898
+2026-11-09,tamil-nadu/madurai,tamil-nadu,Madurai,33~10/15,97966,33509,64457,2939
+2026-11-09,tamil-nadu/the-nilgiris,tamil-nadu,The Nilgiris,33~10/16,8123,2951,5172,79
+2026-11-09,tamil-nadu/thanjavur,tamil-nadu,Thanjavur,33~10/17,52766,20457,32309,1125
+2026-11-09,tamil-nadu/coimbatore,tamil-nadu,Coimbatore,33~10/18,102094,40476,61618,2634
+2026-11-09,tamil-nadu/karur,tamil-nadu,Karur,33~10/19,29199,12554,16645,420
+2026-11-09,tamil-nadu/cuddalore,tamil-nadu,Cuddalore,33~10/20,69449,35572,33877,2606
+2026-11-09,tamil-nadu/ramanathapuram,tamil-nadu,Ramanathapuram,33~10/21,33847,8546,25301,698
+2026-11-09,tamil-nadu/tiruvannamalai,tamil-nadu,Tiruvannamalai,33~10/22,52198,21485,30713,2305
+2026-11-09,tamil-nadu/perambalur,tamil-nadu,Perambalur,33~10/23,11607,5549,6058,427
+2026-11-09,tamil-nadu/erode,tamil-nadu,Erode,33~10/24,53826,23929,29897,749
+2026-11-09,tamil-nadu/tiruvarur,tamil-nadu,Tiruvarur,33~10/25,22626,6336,16290,295
+2026-11-09,tamil-nadu/krishnagiri,tamil-nadu,Krishnagiri,33~10/26,47052,21207,25845,1982
+2026-11-09,tamil-nadu/dindigul,tamil-nadu,Dindigul,33~10/27,46597,20393,26204,2104
+2026-11-09,tamil-nadu/sivagangai,tamil-nadu,Sivagangai,33~10/29,34825,11920,22905,1135
+2026-11-09,tamil-nadu/ariyalur,tamil-nadu,Ariyalur,33~10/30,17849,6152,11697,401
+2026-11-09,tamil-nadu/kancheepuram,tamil-nadu,Kancheepuram,33~10/31,32795,14476,18319,1914
+2026-11-09,tamil-nadu/tiruvallur,tamil-nadu,Tiruvallur,33~10/32,77801,34763,43038,3267
+2026-11-09,tamil-nadu/tiruppur,tamil-nadu,Tiruppur,33~10/33,60590,24484,36106,987
+2026-11-09,tamil-nadu/mayiladuthurai,tamil-nadu,Mayiladuthurai,33~10/34,13119,6337,6782,170
+2026-11-09,tamil-nadu/kallakurichi,tamil-nadu,Kallakurichi,33~10/35,32262,16406,15856,877
+2026-11-09,tamil-nadu/tenkasi,tamil-nadu,Tenkasi,33~10/36,45342,14051,31291,392
+2026-11-09,tamil-nadu/tirupathur,tamil-nadu,Tirupathur,33~10/37,22512,8246,14266,354
+2026-11-09,tamil-nadu/chengalpattu,tamil-nadu,Chengalpattu,33~10/38,55348,22715,32633,3474
+2026-11-09,tamil-nadu/ranipet,tamil-nadu,Ranipet,33~10/39,20540,7603,12937,482
+2026-11-09,telangana/adilabad,telangana,Adilabad,36~29/1,10522,1945,8577,30
+2026-11-09,telangana/hyderabad-ccc,telangana,Hyderabad CCC,36~29/2,192590,54687,137903,2930
+2026-11-09,telangana/karimnagar,telangana,Karimnagar,36~29/3,42114,13173,28941,908
+2026-11-09,telangana/khammam,telangana,Khammam,36~29/4,37587,12113,25474,295
+2026-11-09,telangana/mahabubnagar,telangana,Mahabubnagar,36~29/5,17728,6787,10941,69
+2026-11-09,telangana/medak,telangana,Medak,36~29/6,13562,3825,9737,47
+2026-11-09,telangana/nalgonda,telangana,Nalgonda,36~29/7,44148,15521,28627,505
+2026-11-09,telangana/nizamabad,telangana,Nizamabad,36~29/8,23896,7350,16546,62
+2026-11-09,telangana/rangareddy,telangana,Rangareddy,36~29/9,144183,57594,86589,3255
+2026-11-09,telangana/warangal,telangana,Warangal,36~29/10,27440,10381,17059,1261
+2026-11-09,telangana/hyderabad-msj,telangana,Hyderabad MSJ,36~29/11,0,0,0,0
+2026-11-09,telangana/bhadradri-kothagudem,telangana,Bhadradri Kothagudem,36~29/13,23124,3560,19564,122
+2026-11-09,telangana/hanumakonda,telangana,Hanumakonda,36~29/14,33347,14602,18745,988
+2026-11-09,telangana/jagitial,telangana,Jagitial,36~29/15,18173,5314,12859,202
+2026-11-09,telangana/jangoan,telangana,Jangoan,36~29/16,12720,5808,6912,266
+2026-11-09,telangana/jayashankar-bhupalapally,telangana,Jayashankar Bhupalapally,36~29/17,9681,2474,7207,105
+2026-11-09,telangana/jogulamba-gadwal,telangana,Jogulamba Gadwal,36~29/18,8213,3420,4793,49
+2026-11-09,telangana/kamareddy,telangana,Kamareddy,36~29/19,15393,3332,12061,44
+2026-11-09,telangana/kumuram-bheem-asifabad,telangana,Kumuram Bheem Asifabad,36~29/20,6214,1486,4728,18
+2026-11-09,telangana/mahabubabad,telangana,Mahabubabad,36~29/21,13104,3780,9324,120
+2026-11-09,telangana/mancherial,telangana,Mancherial,36~29/22,20089,6146,13943,33
+2026-11-09,telangana/medchal-malkajgiri,telangana,Medchal Malkajgiri,36~29/23,99898,34030,65868,1501
+2026-11-09,telangana/mulugu,telangana,Mulugu,36~29/24,3680,772,2908,50
+2026-11-09,telangana/nagarkurnool,telangana,Nagarkurnool,36~29/25,14759,6487,8272,62
+2026-11-09,telangana/narayanpet,telangana,Narayanpet,36~29/26,8365,2672,5693,19
+2026-11-09,telangana/nirmal,telangana,Nirmal,36~29/27,7848,1910,5938,107
+2026-11-09,telangana/peddapalli,telangana,Peddapalli,36~29/28,19041,6077,12964,248
+2026-11-09,telangana/rajanna-siricilla,telangana,Rajanna Siricilla,36~29/29,14684,4808,9876,217
+2026-11-09,telangana/sangareddy,telangana,Sangareddy,36~29/30,35881,15937,19944,269
+2026-11-09,telangana/siddipet,telangana,Siddipet,36~29/31,26852,8983,17869,243
+2026-11-09,telangana/suryapet,telangana,Suryapet,36~29/32,28948,7994,20954,327
+2026-11-09,telangana/vikarabad,telangana,Vikarabad,36~29/33,18096,7997,10099,152
+2026-11-09,telangana/wanaparthy,telangana,Wanaparthy,36~29/34,11717,4310,7407,46
+2026-11-09,telangana/yadadri-bhuvanagiri,telangana,Yadadri Bhuvanagiri,36~29/35,23649,9490,14159,276
+2026-11-09,telangana/hyderabad-cscc,telangana,Hyderabad CSCC,36~29/36,0,0,0,0
+2026-11-09,telangana/hyderabad-cbi,telangana,Hyderabad CBI,36~29/79,0,0,0,0
+2026-11-09,dadra-and-nagar-haveli-and-daman-and-diu/diu,dadra-and-nagar-haveli-and-daman-and-diu,Diu,38~38/1,803,462,341,8
+2026-11-09,dadra-and-nagar-haveli-and-daman-and-diu/daman,dadra-and-nagar-haveli-and-daman-and-diu,Daman,38~38/2,2739,1127,1612,124
+2026-11-09,dadra-and-nagar-haveli-and-daman-and-diu/silvassa,dadra-and-nagar-haveli-and-daman-and-diu,Silvassa,38~38/3,5162,2283,2879,186
+2026-11-09,tripura/west-tripura,tripura,West Tripura,16~20/1,37808,6829,30979,375
+2026-11-09,tripura/north-tripura,tripura,North Tripura,16~20/2,7266,1557,5709,28
+2026-11-09,tripura/south-tripura,tripura,South Tripura,16~20/3,9037,1078,7959,5
+2026-11-09,tripura/unakoti,tripura,Unakoti,16~20/5,4267,1201,3066,8
+2026-11-09,tripura/gomati,tripura,Gomati,16~20/6,5266,1289,3977,4
+2026-11-09,tripura/sepahijala,tripura,Sepahijala,16~20/9,6737,1004,5733,85
+2026-11-09,tripura/khowai,tripura,Khowai,16~20/10,4541,553,3988,1
+2026-11-09,tripura/dhalai,tripura,Dhalai,16~20/11,4492,541,3951,2
+2026-11-09,uttar-pradesh/prayagraj,uttar-pradesh,Prayagraj,9~13/1,620221,79324,540897,108835
+2026-11-09,uttar-pradesh/bareilly,uttar-pradesh,Bareilly,9~13/2,252056,22563,229493,34640
+2026-11-09,uttar-pradesh/gorakhpur,uttar-pradesh,Gorakhpur,9~13/3,335036,62558,272478,72919
+2026-11-09,uttar-pradesh/hardoi,uttar-pradesh,Hardoi,9~13/4,180204,21809,158395,34246
+2026-11-09,uttar-pradesh/chitrakoot,uttar-pradesh,Chitrakoot,9~13/5,48468,6256,42212,2418
+2026-11-09,uttar-pradesh/meerut,uttar-pradesh,Meerut,9~13/6,293417,31693,261724,27789
+2026-11-09,uttar-pradesh/bahraich,uttar-pradesh,Bahraich,9~13/7,241486,28575,212911,34041
+2026-11-09,uttar-pradesh/ghaziabad,uttar-pradesh,Ghaziabad,9~13/8,578811,27871,550940,55045
+2026-11-09,uttar-pradesh/fatehpur,uttar-pradesh,Fatehpur,9~13/9,126768,18925,107843,25450
+2026-11-09,uttar-pradesh/lakhimpur-kheri,uttar-pradesh,Lakhimpur Kheri,9~13/10,207500,22249,185251,19729
+2026-11-09,uttar-pradesh/shravasti,uttar-pradesh,Shravasti,9~13/11,48348,7945,40403,5754
+2026-11-09,uttar-pradesh/jaunpur,uttar-pradesh,Jaunpur,9~13/12,209183,63308,145875,47466
+2026-11-09,uttar-pradesh/pilibhit,uttar-pradesh,Pilibhit,9~13/13,88911,10842,78069,12243
+2026-11-09,uttar-pradesh/mainpuri,uttar-pradesh,Mainpuri,9~13/14,114063,17956,96107,16541
+2026-11-09,uttar-pradesh/ambedkar-nagar,uttar-pradesh,Ambedkar Nagar,9~13/15,100261,23643,76618,15667
+2026-11-09,uttar-pradesh/sitapur,uttar-pradesh,Sitapur,9~13/16,214626,21332,193294,50851
+2026-11-09,uttar-pradesh/auraiya,uttar-pradesh,Auraiya,9~13/17,77523,15025,62498,13498
+2026-11-09,uttar-pradesh/budaun,uttar-pradesh,Budaun,9~13/18,168494,14276,154218,22606
+2026-11-09,uttar-pradesh/kanpur-nagar,uttar-pradesh,Kanpur Nagar,9~13/19,410965,54974,355991,102808
+2026-11-09,uttar-pradesh/gautam-buddha-nagar,uttar-pradesh,Gautam Buddha Nagar,9~13/20,964660,30488,934172,45131
+2026-11-09,uttar-pradesh/ballia,uttar-pradesh,Ballia,9~13/21,218153,35214,182939,37875
+2026-11-09,uttar-pradesh/bhadohi-sr-nagar,uttar-pradesh,Bhadohi SR Nagar,9~13/22,73214,18015,55199,9017
+2026-11-09,uttar-pradesh/lalitpur,uttar-pradesh,Lalitpur,9~13/23,130822,7899,122923,8000
+2026-11-09,uttar-pradesh/lucknow,uttar-pradesh,Lucknow,9~13/24,484537,69399,415138,104432
+2026-11-09,uttar-pradesh/etah,uttar-pradesh,Etah,9~13/25,152867,11743,141124,8228
+2026-11-09,uttar-pradesh/muzaffarnagar,uttar-pradesh,Muzaffarnagar,9~13/26,169340,13522,155818,34266
+2026-11-09,uttar-pradesh/varanasi,uttar-pradesh,Varanasi,9~13/27,267043,61949,205094,54079
+2026-11-09,uttar-pradesh/ghazipur,uttar-pradesh,Ghazipur,9~13/28,185514,43415,142099,43227
+2026-11-09,uttar-pradesh/firozabad,uttar-pradesh,Firozabad,9~13/29,167170,16572,150598,35736
+2026-11-09,uttar-pradesh/agra,uttar-pradesh,Agra,9~13/30,581516,33764,547752,48706
+2026-11-09,uttar-pradesh/pratapgarh,uttar-pradesh,Pratapgarh,9~13/31,201402,57509,143893,35676
+2026-11-09,uttar-pradesh/etawah,uttar-pradesh,Etawah,9~13/33,78534,12932,65602,8749
+2026-11-09,uttar-pradesh/kushinagar,uttar-pradesh,Kushinagar,9~13/34,187102,41427,145675,46492
+2026-11-09,uttar-pradesh/amroha,uttar-pradesh,Amroha,9~13/35,84595,10370,74225,5791
+2026-11-09,uttar-pradesh/barabanki,uttar-pradesh,Barabanki,9~13/36,198640,22879,175761,24374
+2026-11-09,uttar-pradesh/kaushambi,uttar-pradesh,Kaushambi,9~13/37,94438,10543,83895,12715
+2026-11-09,uttar-pradesh/mahoba,uttar-pradesh,Mahoba,9~13/38,50629,6846,43783,2526
+2026-11-09,uttar-pradesh/banda,uttar-pradesh,Banda,9~13/39,126205,12039,114166,10212
+2026-11-09,uttar-pradesh/kasganj,uttar-pradesh,Kasganj,9~13/40,76110,7085,69025,4938
+2026-11-09,uttar-pradesh/deoria,uttar-pradesh,Deoria,9~13/41,162828,37542,125286,43260
+2026-11-09,uttar-pradesh/mau,uttar-pradesh,Mau,9~13/42,152603,29048,123555,28611
+2026-11-09,uttar-pradesh/aligarh,uttar-pradesh,Aligarh,9~13/43,301943,26255,275688,33244
+2026-11-09,uttar-pradesh/azamgarh,uttar-pradesh,Azamgarh,9~13/44,221788,67923,153865,26931
+2026-11-09,uttar-pradesh/baghpat,uttar-pradesh,Baghpat,9~13/45,74259,7171,67088,7318
+2026-11-09,uttar-pradesh/basti,uttar-pradesh,Basti,9~13/46,165348,24665,140683,27125
+2026-11-09,uttar-pradesh/bijnor,uttar-pradesh,Bijnor,9~13/47,230394,21911,208483,26197
+2026-11-09,uttar-pradesh/bulandshahr,uttar-pradesh,Bulandshahr,9~13/48,266734,19043,247691,32414
+2026-11-09,uttar-pradesh/ayodhya,uttar-pradesh,Ayodhya,9~13/49,189430,51848,137582,37208
+2026-11-09,uttar-pradesh/gonda,uttar-pradesh,Gonda,9~13/50,200264,39280,160984,36610
+2026-11-09,uttar-pradesh/kanpur-dehat,uttar-pradesh,Kanpur Dehat,9~13/51,150674,19166,131508,23329
+2026-11-09,uttar-pradesh/maharajganj,uttar-pradesh,Maharajganj,9~13/52,122303,24950,97353,23862
+2026-11-09,uttar-pradesh/mathura,uttar-pradesh,Mathura,9~13/53,202811,25217,177594,17399
+2026-11-09,uttar-pradesh/moradabad,uttar-pradesh,Moradabad,9~13/54,157433,18208,139225,19842
+2026-11-09,uttar-pradesh/raebareli,uttar-pradesh,Raebareli,9~13/55,173128,35626,137502,28260
+2026-11-09,uttar-pradesh/rampur,uttar-pradesh,Rampur,9~13/56,105102,7146,97956,11534
+2026-11-09,uttar-pradesh/saharanpur,uttar-pradesh,Saharanpur,9~13/57,208620,21525,187095,30435
+2026-11-09,uttar-pradesh/shahjahanpur,uttar-pradesh,Shahjahanpur,9~13/58,166971,15234,151737,19623
+2026-11-09,uttar-pradesh/siddharthnagar,uttar-pradesh,Siddharthnagar,9~13/59,131412,24998,106414,27774
+2026-11-09,uttar-pradesh/sonbhadra,uttar-pradesh,Sonbhadra,9~13/60,81900,10066,71834,14647
+2026-11-09,uttar-pradesh/sultanpur,uttar-pradesh,Sultanpur,9~13/61,250708,74999,175709,73703
+2026-11-09,uttar-pradesh/unnao,uttar-pradesh,Unnao,9~13/62,210112,21841,188271,14110
+2026-11-09,uttar-pradesh/farrukhabad,uttar-pradesh,Farrukhabad,9~13/63,100791,17264,83527,14079
+2026-11-09,uttar-pradesh/hamirpur,uttar-pradesh,Hamirpur,9~13/64,61139,9084,52055,10734
+2026-11-09,uttar-pradesh/hathras,uttar-pradesh,Hathras,9~13/65,93842,12735,81107,11983
+2026-11-09,uttar-pradesh/jhansi,uttar-pradesh,Jhansi,9~13/66,111575,16758,94817,16385
+2026-11-09,uttar-pradesh/balrampur,uttar-pradesh,Balrampur,9~13/67,92069,18032,74037,16148
+2026-11-09,uttar-pradesh/mirzapur,uttar-pradesh,Mirzapur,9~13/68,102923,17331,85592,18617
+2026-11-09,uttar-pradesh/kannauj,uttar-pradesh,Kannauj,9~13/69,93789,15722,78067,7846
+2026-11-09,uttar-pradesh/jalaun,uttar-pradesh,Jalaun,9~13/70,109003,17482,91521,13101
+2026-11-09,uttar-pradesh/santkabir-nagar,uttar-pradesh,Santkabir Nagar,9~13/71,101743,12335,89408,13506
+2026-11-09,uttar-pradesh/hapur,uttar-pradesh,Hapur,9~13/73,130072,7738,122334,15395
+2026-11-09,uttar-pradesh/sambhal-at-chandausi,uttar-pradesh,Sambhal at Chandausi,9~13/74,111165,17587,93578,10478
+2026-11-09,uttar-pradesh/chandauli,uttar-pradesh,Chandauli,9~13/75,95431,13884,81547,15795
+2026-11-09,uttar-pradesh/shamli-at-kairana,uttar-pradesh,Shamli at Kairana,9~13/76,58304,5990,52314,1403
+2026-11-09,uttarakhand/nainital,uttarakhand,Nainital,5~15/1,27412,4959,22453,104
+2026-11-09,uttarakhand/pauri-garhwal,uttarakhand,Pauri Garhwal,5~15/2,10726,1965,8761,24
+2026-11-09,uttarakhand/tehri-garhwal,uttarakhand,Tehri Garhwal,5~15/3,3520,738,2782,19
+2026-11-09,uttarakhand/udham-singh-nagar,uttarakhand,Udham Singh Nagar,5~15/4,65536,8830,56706,445
+2026-11-09,uttarakhand/dehradun,uttarakhand,Dehradun,5~15/5,108491,17627,90864,2636
+2026-11-09,uttarakhand/uttarkashi,uttarakhand,Uttarkashi,5~15/6,1642,540,1102,6
+2026-11-09,uttarakhand/almora,uttarakhand,Almora,5~15/7,2636,708,1928,10
+2026-11-09,uttarakhand/chamoli,uttarakhand,Chamoli,5~15/8,1404,357,1047,6
+2026-11-09,uttarakhand/haridwar,uttarakhand,Haridwar,5~15/9,85092,14630,70462,2012
+2026-11-09,uttarakhand/champawat,uttarakhand,Champawat,5~15/13,1168,221,947,2
+2026-11-09,uttarakhand/bageshwar,uttarakhand,Bageshwar,5~15/14,768,195,573,0
+2026-11-09,uttarakhand/pithoragarh,uttarakhand,Pithoragarh,5~15/15,2438,441,1997,1
+2026-11-09,uttarakhand/rudraprayag,uttarakhand,Rudraprayag,5~15/16,487,136,351,3
+2026-11-09,west-bengal/malda,west-bengal,Malda,19~16/1,104386,14240,90146,11403
+2026-11-09,west-bengal/hooghly,west-bengal,Hooghly,19~16/2,143242,37691,105551,18044
+2026-11-09,west-bengal/calcutta,west-bengal,Calcutta,19~16/3,1709776,43306,1666470,259355
+2026-11-09,west-bengal/jalpaiguri,west-bengal,Jalpaiguri,19~16/4,82343,13615,68728,19788
+2026-11-09,west-bengal/coochbehar,west-bengal,Coochbehar,19~16/6,49155,6515,42640,8435
+2026-11-09,west-bengal/paschim-medinpur,west-bengal,Paschim Medinpur,19~16/7,124083,31216,92867,16654
+2026-11-09,west-bengal/birbhum,west-bengal,Birbhum,19~16/8,74822,18669,56153,6397
+2026-11-09,west-bengal/purba-medinipur,west-bengal,Purba Medinipur,19~16/9,124820,31801,93019,15316
+2026-11-09,west-bengal/purulia,west-bengal,Purulia,19~16/10,36275,11355,24920,5255
+2026-11-09,west-bengal/howrah,west-bengal,Howrah,19~16/11,126795,39353,87442,27004
+2026-11-09,west-bengal/murshidabad,west-bengal,Murshidabad,19~16/12,243415,44305,199110,54208
+2026-11-09,west-bengal/south-dinajpur,west-bengal,South Dinajpur,19~16/13,47197,7150,40047,5149
+2026-11-09,west-bengal/north-twenty-four-parganas,west-bengal,North  Twenty Four Parganas,19~16/14,391313,93495,297818,64741
+2026-11-09,west-bengal/darjeeling,west-bengal,Darjeeling,19~16/17,46377,8582,37795,2823
+2026-11-09,west-bengal/purba-bardhaman,west-bengal,Purba Bardhaman,19~16/18,109320,26232,83088,10061
+2026-11-09,west-bengal/bankura,west-bengal,Bankura,19~16/19,49715,12824,36891,3881
+2026-11-09,west-bengal/south-twenty-four-parganas,west-bengal,South Twenty Four Parganas,19~16/20,432121,144779,287342,133154
+2026-11-09,west-bengal/north-dinajpur,west-bengal,North Dinajpur,19~16/21,58927,14838,44089,7431
+2026-11-09,west-bengal/nadia,west-bengal,Nadia,19~16/22,172063,30065,141998,35152
+2026-11-09,west-bengal/kalimpong,west-bengal,kalimpong,19~16/23,1512,368,1144,30
+2026-11-09,west-bengal/paschim-bardhaman,west-bengal,Paschim Bardhaman,19~16/24,119269,22356,96913,6594
+2026-11-09,west-bengal/jhargram,west-bengal,Jhargram,19~16/25,15077,2921,12156,1551
+2026-11-09,west-bengal/alipurduar,west-bengal,Alipurduar,19~16/26,28829,4005,24824,3729

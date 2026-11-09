@@ -1,0 +1,64 @@
+file,column,type,description
+data/daily/<YYYY-MM>.csv,read_on,date,"Day NJDG was read, in India"
+data/daily/<YYYY-MM>.csv,id,string,"State or UT slug and district slug, from the names NJDG prints"
+data/daily/<YYYY-MM>.csv,njdg_code,string,NJDG's State code and district code
+data/daily/<YYYY-MM>.csv,pending_civil,integer,"Pending cases, civil. Empty where NJDG showed no figure"
+data/daily/<YYYY-MM>.csv,pending_criminal,integer,"Pending cases, criminal. Empty where NJDG showed no figure"
+data/daily/<YYYY-MM>.csv,age_0_1_civil,integer,"Pending cases filed less than 1 year ago, civil. Empty where NJDG showed no figure"
+data/daily/<YYYY-MM>.csv,age_0_1_criminal,integer,"Pending cases filed less than 1 year ago, criminal. Empty where NJDG showed no figure"
+data/daily/<YYYY-MM>.csv,age_1_3_civil,integer,"Pending cases filed 1 to 3 years ago, civil. Empty where NJDG showed no figure"
+data/daily/<YYYY-MM>.csv,age_1_3_criminal,integer,"Pending cases filed 1 to 3 years ago, criminal. Empty where NJDG showed no figure"
+data/daily/<YYYY-MM>.csv,age_3_5_civil,integer,"Pending cases filed 3 to 5 years ago, civil. Empty where NJDG showed no figure"
+data/daily/<YYYY-MM>.csv,age_3_5_criminal,integer,"Pending cases filed 3 to 5 years ago, criminal. Empty where NJDG showed no figure"
+data/daily/<YYYY-MM>.csv,age_5_10_civil,integer,"Pending cases filed 5 to 10 years ago, civil. Empty where NJDG showed no figure"
+data/daily/<YYYY-MM>.csv,age_5_10_criminal,integer,"Pending cases filed 5 to 10 years ago, criminal. Empty where NJDG showed no figure"
+data/daily/<YYYY-MM>.csv,age_over_10_civil,integer,"Pending cases filed more than 10 years ago, civil. Empty where NJDG showed no figure"
+data/daily/<YYYY-MM>.csv,age_over_10_criminal,integer,"Pending cases filed more than 10 years ago, criminal. Empty where NJDG showed no figure"
+data/daily/<YYYY-MM>.csv,instituted_last_month_civil,integer,"Cases filed in the last month, civil. Empty where NJDG showed no figure"
+data/daily/<YYYY-MM>.csv,instituted_last_month_criminal,integer,"Cases filed in the last month, criminal. Empty where NJDG showed no figure"
+data/daily/<YYYY-MM>.csv,disposed_last_month_civil,integer,"Cases disposed of in the last month, civil. Empty where NJDG showed no figure"
+data/daily/<YYYY-MM>.csv,disposed_last_month_criminal,integer,"Cases disposed of in the last month, criminal. Empty where NJDG showed no figure"
+data/daily/<YYYY-MM>.csv,disposed_contested_last_month_civil,integer,"Contested cases disposed of in the last month, civil. Empty where NJDG showed no figure"
+data/daily/<YYYY-MM>.csv,disposed_contested_last_month_criminal,integer,"Contested cases disposed of in the last month, criminal. Empty where NJDG showed no figure"
+data/daily/<YYYY-MM>.csv,disposed_uncontested_last_month_civil,integer,"Uncontested cases disposed of in the last month, civil. Empty where NJDG showed no figure"
+data/daily/<YYYY-MM>.csv,disposed_uncontested_last_month_criminal,integer,"Uncontested cases disposed of in the last month, criminal. Empty where NJDG showed no figure"
+data/daily/<YYYY-MM>.csv,listed_today_civil,integer,"Cases listed for hearing on the day read, civil. Empty where NJDG showed no figure"
+data/daily/<YYYY-MM>.csv,listed_today_criminal,integer,"Cases listed for hearing on the day read, criminal. Empty where NJDG showed no figure"
+data/daily/<YYYY-MM>.csv,undated_civil,integer,"Pending cases with no next hearing date, civil. Empty where NJDG showed no figure"
+data/daily/<YYYY-MM>.csv,undated_criminal,integer,"Pending cases with no next hearing date, criminal. Empty where NJDG showed no figure"
+data/daily/<YYYY-MM>.csv,excessive_dated_civil,integer,"Pending cases whose next hearing is more than 3 months away, civil. Empty where NJDG showed no figure"
+data/daily/<YYYY-MM>.csv,excessive_dated_criminal,integer,"Pending cases whose next hearing is more than 3 months away, criminal. Empty where NJDG showed no figure"
+data/daily/<YYYY-MM>.csv,filed_by_women_civil,integer,"Pending cases filed by women, civil. Empty where NJDG showed no figure"
+data/daily/<YYYY-MM>.csv,filed_by_women_criminal,integer,"Pending cases filed by women, criminal. Empty where NJDG showed no figure"
+data/daily/<YYYY-MM>.csv,filed_by_senior_citizens_civil,integer,"Pending cases filed by senior citizens, civil. Empty where NJDG showed no figure"
+data/daily/<YYYY-MM>.csv,filed_by_senior_citizens_criminal,integer,"Pending cases filed by senior citizens, criminal. Empty where NJDG showed no figure"
+data/daily/<YYYY-MM>.csv,pre_litigation_trial_civil,integer,"Pre-litigation and pre-trial matters, as NJDG's dashboard chart counts them, civil. Empty where NJDG showed no figure"
+data/daily/<YYYY-MM>.csv,pre_litigation_trial_criminal,integer,"Pre-litigation and pre-trial matters, as NJDG's dashboard chart counts them, criminal. Empty where NJDG showed no figure"
+data/daily/<YYYY-MM>.csv,pre_litigation_trial_over_1_year,integer,"Pre-litigation and pre-trial matters more than 1 year old, civil and criminal together. Empty where NJDG showed no figure"
+data/daily/gaps.csv,read_on,date,"Day NJDG was read, in India"
+data/daily/gaps.csv,id,string,"State or UT slug and district slug, from the names NJDG prints"
+data/daily/gaps.csv,reason,string,Why the district has no row that day
+data/districts-history.csv,read_on,date,"Day NJDG was read, in India"
+data/districts-history.csv,id,string,"State or UT slug and district slug, from the names NJDG prints"
+data/districts-history.csv,state,string,State or UT slug
+data/districts-history.csv,district,string,"District as NJDG names it. These are court districts, which can differ from revenue districts"
+data/districts-history.csv,njdg_code,string,NJDG's State code and district code
+data/districts-history.csv,pending,integer,"Pending cases, civil and criminal together"
+data/districts-history.csv,pending_civil,integer,"Pending civil cases, the sum of the civil age bands"
+data/districts-history.csv,pending_criminal,integer,"Pending criminal cases, the sum of the criminal age bands"
+data/districts-history.csv,older_than_10,integer,"Pending cases filed more than 10 years ago: the sum of the three oldest age bands, civil and criminal"
+data/weekly/<ISO week>/district-measures.csv,read_on,date,"Day NJDG was read, in India"
+data/weekly/<ISO week>/district-measures.csv,id,string,"State or UT slug and district slug, from the names NJDG prints"
+data/weekly/<ISO week>/district-measures.csv,kind,string,Civil or criminal cases
+data/weekly/<ISO week>/district-measures.csv,measure,string,"age_band, case_group, stage, filing_year, case_type and purpose count pending cases; filed and disposed count cases in a year"
+data/weekly/<ISO week>/district-measures.csv,label,string,"Age band, case group, stage, case type or purpose as NJDG labels it, or the year for filed, disposed and filing_year. Empty where NJDG gave no label. A case type or purpose label can repeat when NJDG lists it twice"
+data/weekly/<ISO week>/district-measures.csv,cases,integer,Number of cases. Empty where NJDG returned no figure
+data/runs.csv,read_on,date,"Day NJDG was read, in India"
+data/runs.csv,run,string,daily reads each district's dashboard page; weekly reads the full civil and criminal detail
+data/runs.csv,started_at,datetime,"When the run started, UTC"
+data/runs.csv,finished_at,datetime,"When the run ended, UTC"
+data/runs.csv,requests,integer,Requests sent to NJDG in this run. Pages already saved earlier that day are not requested again
+data/runs.csv,rows,integer,District rows written
+data/runs.csv,gaps,integer,Districts with no row from this run
+data/runs.csv,status,string,failed means nothing from this run was written
+data/runs.csv,note,string,"What failed, or what changed in NJDG's district list"

@@ -1,0 +1,388 @@
+{
+  "name": "njdg-data",
+  "title": "NJDG data",
+  "homepage": "https://github.com/knowmoreindia/njdg-data",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0"
+    }
+  ],
+  "sources": [
+    {
+      "title": "National Judicial Data Grid, District and Taluka Courts",
+      "path": "https://njdg.ecourts.gov.in/njdg_v3/"
+    }
+  ],
+  "version": "2026-11-09",
+  "resources": [
+    {
+      "name": "daily",
+      "path": [
+        "data/daily/2026-11.csv"
+      ],
+      "format": "csv",
+      "description": "One row per district per day",
+      "schema": {
+        "fields": [
+          {
+            "name": "read_on",
+            "type": "date",
+            "description": "Day NJDG was read, in India"
+          },
+          {
+            "name": "id",
+            "type": "string",
+            "description": "State or UT slug and district slug, from the names NJDG prints"
+          },
+          {
+            "name": "njdg_code",
+            "type": "string",
+            "description": "NJDG's State code and district code"
+          },
+          {
+            "name": "pending_civil",
+            "type": "integer",
+            "description": "Pending cases, civil. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "pending_criminal",
+            "type": "integer",
+            "description": "Pending cases, criminal. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "age_0_1_civil",
+            "type": "integer",
+            "description": "Pending cases filed less than 1 year ago, civil. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "age_0_1_criminal",
+            "type": "integer",
+            "description": "Pending cases filed less than 1 year ago, criminal. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "age_1_3_civil",
+            "type": "integer",
+            "description": "Pending cases filed 1 to 3 years ago, civil. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "age_1_3_criminal",
+            "type": "integer",
+            "description": "Pending cases filed 1 to 3 years ago, criminal. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "age_3_5_civil",
+            "type": "integer",
+            "description": "Pending cases filed 3 to 5 years ago, civil. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "age_3_5_criminal",
+            "type": "integer",
+            "description": "Pending cases filed 3 to 5 years ago, criminal. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "age_5_10_civil",
+            "type": "integer",
+            "description": "Pending cases filed 5 to 10 years ago, civil. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "age_5_10_criminal",
+            "type": "integer",
+            "description": "Pending cases filed 5 to 10 years ago, criminal. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "age_over_10_civil",
+            "type": "integer",
+            "description": "Pending cases filed more than 10 years ago, civil. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "age_over_10_criminal",
+            "type": "integer",
+            "description": "Pending cases filed more than 10 years ago, criminal. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "instituted_last_month_civil",
+            "type": "integer",
+            "description": "Cases filed in the last month, civil. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "instituted_last_month_criminal",
+            "type": "integer",
+            "description": "Cases filed in the last month, criminal. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "disposed_last_month_civil",
+            "type": "integer",
+            "description": "Cases disposed of in the last month, civil. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "disposed_last_month_criminal",
+            "type": "integer",
+            "description": "Cases disposed of in the last month, criminal. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "disposed_contested_last_month_civil",
+            "type": "integer",
+            "description": "Contested cases disposed of in the last month, civil. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "disposed_contested_last_month_criminal",
+            "type": "integer",
+            "description": "Contested cases disposed of in the last month, criminal. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "disposed_uncontested_last_month_civil",
+            "type": "integer",
+            "description": "Uncontested cases disposed of in the last month, civil. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "disposed_uncontested_last_month_criminal",
+            "type": "integer",
+            "description": "Uncontested cases disposed of in the last month, criminal. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "listed_today_civil",
+            "type": "integer",
+            "description": "Cases listed for hearing on the day read, civil. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "listed_today_criminal",
+            "type": "integer",
+            "description": "Cases listed for hearing on the day read, criminal. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "undated_civil",
+            "type": "integer",
+            "description": "Pending cases with no next hearing date, civil. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "undated_criminal",
+            "type": "integer",
+            "description": "Pending cases with no next hearing date, criminal. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "excessive_dated_civil",
+            "type": "integer",
+            "description": "Pending cases whose next hearing is more than 3 months away, civil. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "excessive_dated_criminal",
+            "type": "integer",
+            "description": "Pending cases whose next hearing is more than 3 months away, criminal. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "filed_by_women_civil",
+            "type": "integer",
+            "description": "Pending cases filed by women, civil. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "filed_by_women_criminal",
+            "type": "integer",
+            "description": "Pending cases filed by women, criminal. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "filed_by_senior_citizens_civil",
+            "type": "integer",
+            "description": "Pending cases filed by senior citizens, civil. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "filed_by_senior_citizens_criminal",
+            "type": "integer",
+            "description": "Pending cases filed by senior citizens, criminal. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "pre_litigation_trial_civil",
+            "type": "integer",
+            "description": "Pre-litigation and pre-trial matters, as NJDG's dashboard chart counts them, civil. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "pre_litigation_trial_criminal",
+            "type": "integer",
+            "description": "Pre-litigation and pre-trial matters, as NJDG's dashboard chart counts them, criminal. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "pre_litigation_trial_over_1_year",
+            "type": "integer",
+            "description": "Pre-litigation and pre-trial matters more than 1 year old, civil and criminal together. Empty where NJDG showed no figure"
+          }
+        ]
+      }
+    },
+    {
+      "name": "daily-gaps",
+      "path": "data/daily/gaps.csv",
+      "format": "csv",
+      "description": "Districts with no daily row on a day",
+      "schema": {
+        "fields": [
+          {
+            "name": "read_on",
+            "type": "date",
+            "description": "Day NJDG was read, in India"
+          },
+          {
+            "name": "id",
+            "type": "string",
+            "description": "State or UT slug and district slug, from the names NJDG prints"
+          },
+          {
+            "name": "reason",
+            "type": "string",
+            "description": "Why the district has no row that day"
+          }
+        ]
+      }
+    },
+    {
+      "name": "districts-history",
+      "path": "data/districts-history.csv",
+      "format": "csv",
+      "description": "One row per district per weekly snapshot",
+      "schema": {
+        "fields": [
+          {
+            "name": "read_on",
+            "type": "date",
+            "description": "Day NJDG was read, in India"
+          },
+          {
+            "name": "id",
+            "type": "string",
+            "description": "State or UT slug and district slug, from the names NJDG prints"
+          },
+          {
+            "name": "state",
+            "type": "string",
+            "description": "State or UT slug"
+          },
+          {
+            "name": "district",
+            "type": "string",
+            "description": "District as NJDG names it. These are court districts, which can differ from revenue districts"
+          },
+          {
+            "name": "njdg_code",
+            "type": "string",
+            "description": "NJDG's State code and district code"
+          },
+          {
+            "name": "pending",
+            "type": "integer",
+            "description": "Pending cases, civil and criminal together"
+          },
+          {
+            "name": "pending_civil",
+            "type": "integer",
+            "description": "Pending civil cases, the sum of the civil age bands"
+          },
+          {
+            "name": "pending_criminal",
+            "type": "integer",
+            "description": "Pending criminal cases, the sum of the criminal age bands"
+          },
+          {
+            "name": "older_than_10",
+            "type": "integer",
+            "description": "Pending cases filed more than 10 years ago: the sum of the three oldest age bands, civil and criminal"
+          }
+        ]
+      }
+    },
+    {
+      "name": "district-measures",
+      "path": "data/latest/district-measures.csv",
+      "format": "csv",
+      "description": "Weekly detail, one row per district, case kind and figure",
+      "schema": {
+        "fields": [
+          {
+            "name": "read_on",
+            "type": "date",
+            "description": "Day NJDG was read, in India"
+          },
+          {
+            "name": "id",
+            "type": "string",
+            "description": "State or UT slug and district slug, from the names NJDG prints"
+          },
+          {
+            "name": "kind",
+            "type": "string",
+            "description": "Civil or criminal cases"
+          },
+          {
+            "name": "measure",
+            "type": "string",
+            "description": "age_band, case_group, stage, filing_year, case_type and purpose count pending cases; filed and disposed count cases in a year"
+          },
+          {
+            "name": "label",
+            "type": "string",
+            "description": "Age band, case group, stage, case type or purpose as NJDG labels it, or the year for filed, disposed and filing_year. Empty where NJDG gave no label. A case type or purpose label can repeat when NJDG lists it twice"
+          },
+          {
+            "name": "cases",
+            "type": "integer",
+            "description": "Number of cases. Empty where NJDG returned no figure"
+          }
+        ]
+      }
+    },
+    {
+      "name": "runs",
+      "path": "data/runs.csv",
+      "format": "csv",
+      "description": "Every daily and weekly run",
+      "schema": {
+        "fields": [
+          {
+            "name": "read_on",
+            "type": "date",
+            "description": "Day NJDG was read, in India"
+          },
+          {
+            "name": "run",
+            "type": "string",
+            "description": "daily reads each district's dashboard page; weekly reads the full civil and criminal detail"
+          },
+          {
+            "name": "started_at",
+            "type": "datetime",
+            "description": "When the run started, UTC"
+          },
+          {
+            "name": "finished_at",
+            "type": "datetime",
+            "description": "When the run ended, UTC"
+          },
+          {
+            "name": "requests",
+            "type": "integer",
+            "description": "Requests sent to NJDG in this run. Pages already saved earlier that day are not requested again"
+          },
+          {
+            "name": "rows",
+            "type": "integer",
+            "description": "District rows written"
+          },
+          {
+            "name": "gaps",
+            "type": "integer",
+            "description": "Districts with no row from this run"
+          },
+          {
+            "name": "status",
+            "type": "string",
+            "description": "failed means nothing from this run was written"
+          },
+          {
+            "name": "note",
+            "type": "string",
+            "description": "What failed, or what changed in NJDG's district list"
+          }
+        ]
+      }
+    }
+  ]
+}
