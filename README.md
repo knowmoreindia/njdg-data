@@ -27,7 +27,7 @@ Each district has a stable `id` like `bihar/patna`, the same in every file.
 | `data/weekly/<week>/district-measures.csv` | The weekly detail in long form: 7 age bands, case types, stages, year of filing, purpose of the next hearing, and cases filed and disposed of each year |
 | `data/districts-history.csv` | Every weekly `districts.csv` stacked |
 | `data/latest/` | The newest weekly files, and the full snapshot as JSON |
-| `data/national/history.csv` | All-India figures back to 22 November 2018, 291 days so far. Before 9 November 2026 each row comes from a copy of NJDG's page saved on the Internet Archive, linked in `source` |
+| `data/national/history.csv` | All-India figures back to 22 November 2018, 292 days so far. Before 9 November 2026 each row comes from a copy of NJDG's page saved on the Internet Archive, linked in `source` |
 | `data/daily/gaps.csv` | Districts missing on a given day, and why |
 | `data/runs.csv` | A log of every read, including ones that failed |
 | `codebook.csv` | Every column and what it counts (also as `datapackage.json`) |
@@ -40,6 +40,7 @@ District figures start when this repo did, because NJDG doesn't publish its past
 
 - They're snapshots on scattered days, not a daily series. Some months have none.
 - Until 2 September 2024 NJDG had an older dashboard (`page` is `old_dashboard`). It showed age bands (4 until late 2018, then 7), case types and stages, but not hearings, contested disposals or pre-litigation. Columns a page didn't show are blank, and its civil and criminal figures can miss its own printed total by up to half a percent.
+- No copy survives from August 2023 to April 2024. One day in that stretch, 30 November 2023, comes from a Rajya Sabha answer quoting NJDG (`page` is `parliament_answer`).
 - Copies that couldn't be read are listed in `data/national/gaps.csv`, along with two days when NJDG showed only about half its usual total.
 - Where they overlap, these agree to within 0.02% with the 2021 readings in [apoorv74/NJDG-Stats](https://github.com/apoorv74/NJDG-Stats).
 

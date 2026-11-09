@@ -349,12 +349,12 @@
           {
             "name": "page",
             "type": "string",
-            "description": "dashboard is NJDG's current District and Taluka Courts page (njdg_v3); old_dashboard is the page it replaced (njdgnew), which shows age bands (4 until late 2018, then 7), case types and stages but not listings, hearing dates, contested disposals or pre-litigation"
+            "description": "parliament_answer is a figure the government gave Parliament from NJDG, used only where no dashboard copy exists; dashboard is NJDG's current District and Taluka Courts page (njdg_v3); old_dashboard is the page it replaced (njdgnew), which shows age bands (4 until late 2018, then 7), case types and stages but not listings, hearing dates, contested disposals or pre-litigation"
           },
           {
             "name": "source",
             "type": "string",
-            "description": "The page read: a web.archive.org copy for back history, or NJDG itself"
+            "description": "The page read: a web.archive.org copy for back history, NJDG itself, or the data.gov.in dataset of a Parliament answer"
           },
           {
             "name": "pending_civil",

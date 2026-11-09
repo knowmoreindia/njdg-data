@@ -55,8 +55,8 @@ data/weekly/<ISO week>/district-measures.csv,label,string,"Age band, case group,
 data/weekly/<ISO week>/district-measures.csv,cases,integer,Number of cases. Empty where NJDG returned no figure
 data/national/history.csv,read_on,date,"Day NJDG was read, in India"
 data/national/history.csv,captured_at,datetime,"When the page was captured or read, UTC"
-data/national/history.csv,page,string,"dashboard is NJDG's current District and Taluka Courts page (njdg_v3); old_dashboard is the page it replaced (njdgnew), which shows age bands (4 until late 2018, then 7), case types and stages but not listings, hearing dates, contested disposals or pre-litigation"
-data/national/history.csv,source,string,"The page read: a web.archive.org copy for back history, or NJDG itself"
+data/national/history.csv,page,string,"parliament_answer is a figure the government gave Parliament from NJDG, used only where no dashboard copy exists; dashboard is NJDG's current District and Taluka Courts page (njdg_v3); old_dashboard is the page it replaced (njdgnew), which shows age bands (4 until late 2018, then 7), case types and stages but not listings, hearing dates, contested disposals or pre-litigation"
+data/national/history.csv,source,string,"The page read: a web.archive.org copy for back history, NJDG itself, or the data.gov.in dataset of a Parliament answer"
 data/national/history.csv,pending_civil,integer,"Pending cases, civil. Empty where NJDG showed no figure"
 data/national/history.csv,pending_criminal,integer,"Pending cases, criminal. Empty where NJDG showed no figure"
 data/national/history.csv,age_0_1_civil,integer,"Pending cases filed less than 1 year ago, civil. Empty where NJDG showed no figure"
