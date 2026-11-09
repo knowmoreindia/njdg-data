@@ -1,40 +1,48 @@
 # NJDG data
 
-Pending cases in India's district and taluka courts, for every court district, read from the [National Judicial Data Grid](https://njdg.ecourts.gov.in/njdg_v3/). A light reading is kept every day and the full detail once a week.
+How many cases are pending in each of India's 765 court districts, read from the [National Judicial Data Grid](https://njdg.ecourts.gov.in/njdg_v3/) every day, with a fuller breakdown every week.
 
-Latest weekly snapshot: 2026-W46, read on 2026-11-09. 765 districts, 5,21,75,978 pending cases (1,12,59,631 civil, 4,09,16,347 criminal).
+NJDG only ever shows today's numbers. This repo keeps the days.
 
-NJDG shows only today's figures and keeps no public history. This repository is a record of how they move.
+**Latest week (2026-W46, read 2026-11-09):** 5.22 crore cases pending in district and taluka courts, 5,21,75,978 in all. 1.13 crore civil, 4.09 crore criminal.
+
+## Quick start
+
+```python
+import pandas as pd
+
+base = "https://raw.githubusercontent.com/knowmoreindia/njdg-data/main/data"
+daily = pd.read_csv(f"{base}/daily/2026-11.csv")
+weekly = pd.read_csv(f"{base}/latest/districts.csv")
+```
+
+Each district has a stable `id` like `bihar/patna`, the same in every file.
 
 ## Files
 
-| Path | Holds |
+| Path | What's in it |
 |---|---|
-| `data/daily/<YYYY-MM>.csv` | One row per district per day: pending civil and criminal, 5 age bands, cases filed and disposed of in the last month (disposals split into contested and uncontested), cases listed that day, undated and excessive-dated cases, cases filed by women and by senior citizens, and pre-litigation and pre-trial matters |
-| `data/daily/gaps.csv` | Districts that have no daily row on a day, with the reason |
-| `data/weekly/<ISO week>/districts.csv` | One row per district: pending civil, criminal and total, and cases older than 10 years |
-| `data/weekly/<ISO week>/district-measures.csv` | One row per district, case kind and figure: 7 age bands, case groups, stages, pending by filing year, case types, purpose of the next hearing, and cases filed and disposed of each year |
-| `data/districts-history.csv` | Every weekly `districts.csv` in one file |
-| `data/latest/` | The newest weekly files, plus the full snapshot as JSON |
-| `data/runs.csv` | Every run: when, how many requests, rows and gaps, and whether it failed |
-| `codebook.csv`, `datapackage.json` | Every column, its type and what it counts. The second is a [Frictionless data package](https://datapackage.org) |
-| `CHANGELOG.md` | One entry per weekly snapshot |
+| `data/daily/<YYYY-MM>.csv` | A row per district per day: pending civil and criminal cases, how old they are (5 bands), cases filed and disposed of last month, cases listed that day, and cases filed by women and senior citizens |
+| `data/weekly/<week>/districts.csv` | A row per district: pending civil, criminal and total, and cases over 10 years old |
+| `data/weekly/<week>/district-measures.csv` | The weekly detail in long form: 7 age bands, case types, stages, year of filing, purpose of the next hearing, and cases filed and disposed of each year |
+| `data/districts-history.csv` | Every weekly `districts.csv` stacked |
+| `data/latest/` | The newest weekly files, and the full snapshot as JSON |
+| `data/daily/gaps.csv` | Districts missing on a given day, and why |
+| `data/runs.csv` | A log of every read, including ones that failed |
+| `codebook.csv` | Every column and what it counts (also as `datapackage.json`) |
 
-1 weekly snapshot so far.
+1 weekly snapshot so far. Daily readings start on 9 November 2026.
 
-## How the figures are read
+## Worth knowing
 
-- **Daily:** one request per district to NJDG's District and Taluka Courts dashboard, plus one per State. The page shows civil and criminal side by side.
-- **Weekly:** NJDG's pending dashboard, once for civil and once for criminal cases in each district. Pending is the sum of the age bands NJDG returns.
-- **Dates:** NJDG prints no as-of date for these figures, so each reading is dated by the day it was read, in India. A week keeps its last weekly reading.
-- **Districts** are court districts as NJDG names them. Some differ from revenue districts.
-- **Checks:** a reading is kept only when each State's districts add up to within 0.1% of that State's own total, the age bands add up to pending, and contested plus uncontested disposals equal disposals. A reading that fails is not written, and `runs.csv` records why.
-- **Gaps:** a district that could not be read is listed in `gaps.csv`, never filled with zero. Where NJDG shows no figure the cell is empty.
-- **Daily and weekly age bands differ:** the daily page has 5 bands (everything over 10 years together), the weekly detail has 7. On the daily page the bands can add up to slightly more than the pending figure NJDG prints beside them (by at most 0.22% on 9 November 2026). Both are kept as NJDG shows them. The daily pending figure matches the weekly one.
-- **Case types** are NJDG's main types, so they can add up to slightly less than pending. **Stages** and **purposes** leave out cases with none recorded. A case type or purpose label can appear twice when NJDG lists it twice.
-- `filed` and `disposed` count the current year only up to the day read.
-- NJDG's delay-reason figures are the same on every district's page, so they are national and not included. Nothing behind NJDG's CAPTCHA is read, and there is no case-level or party data.
+- Readings are dated by the day they were taken, in India time. NJDG doesn't say when its figures were last updated.
+- These are court districts as NJDG lists them, which don't always match revenue districts.
+- A district that couldn't be read is left out and listed in `gaps.csv`. Nothing is filled in or estimated. A blank cell means NJDG showed no figure.
+- The daily page shows 5 age bands, the weekly detail 7. On the daily page NJDG's bands can add up to slightly more than the pending figure beside them (at most 0.22% when this started). Both are kept as shown.
+- Case types cover NJDG's main types only, so they can add up to a little less than pending. Stages and purposes skip cases with none recorded, and NJDG sometimes lists the same label twice.
+- `filed` and `disposed` for the current year run up to the day read.
+- No case-level or party data, and nothing behind NJDG's CAPTCHA.
 
-## Credit and licence
+## Licence
 
-Source: National Judicial Data Grid (njdg.ecourts.gov.in), eCourts Services. This compilation is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Credit "Know More India, from National Judicial Data Grid data".
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Please credit "Know More India, from National Judicial Data Grid data". The underlying figures are published by eCourts Services on njdg.ecourts.gov.in.
