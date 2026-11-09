@@ -1,0 +1,24 @@
+captured_at,source,reason
+2018-10-04T07:26:08Z,https://web.archive.org/web/20181004072608/http://njdg.ecourts.gov.in:80/njdgnew/,the copy has no dashboard table
+2018-11-04T07:05:12Z,https://web.archive.org/web/20181104070512/http://njdg.ecourts.gov.in:80/njdgnew/,the copy has no dashboard table
+2018-11-16T05:22:18Z,https://web.archive.org/web/20181116052218/http://njdg.ecourts.gov.in:80/njdgnew/index.php,"criminal age bands sum to 19954575, not 20211469"
+2018-11-18T13:19:57Z,https://web.archive.org/web/20181118131957/http://njdg.ecourts.gov.in:80/njdgnew/,"criminal age bands sum to 19971337, not 20228026"
+2018-11-20T01:08:35Z,https://web.archive.org/web/20181120010835/http://njdg.ecourts.gov.in:80/njdgnew/,"criminal age bands sum to 20008916, not 20265816"
+2019-06-23T01:55:24Z,https://web.archive.org/web/20190623015524/http://njdg.ecourts.gov.in:80/njdgnew/,disposed_last_month: civil 177455 and criminal 749771 do not add to the printed total 936863
+2022-01-19T07:29:08Z,https://web.archive.org/web/20220119072908/http://njdg.ecourts.gov.in/njdgnew/,disposed_last_month: civil 170076 and criminal 943622 do not add to the printed total 1129705
+2022-08-10T00:39:17Z,https://web.archive.org/web/20220810003917/https://njdg.ecourts.gov.in/njdgnew/index.php,"pending shows 21205480, more than 25% off the readings either side, so NJDG was likely showing incomplete data"
+2022-10-05T08:10:26Z,https://web.archive.org/web/20221005081026/https://njdg.ecourts.gov.in/njdgnew/index.php,the copy has no dashboard table
+2022-11-12T09:39:52Z,https://web.archive.org/web/20221112093952/https://njdg.ecourts.gov.in/njdgnew/index.php,the copy has no dashboard table
+2023-02-01T12:55:50Z,https://web.archive.org/web/20230201125550/https://njdg.ecourts.gov.in/njdgnew/,the copy has no dashboard table
+2024-09-21T21:56:09Z,https://web.archive.org/web/20240921215609/https://njdg.ecourts.gov.in/njdg_v3/,"pending shows 20617747, more than 25% off the readings either side, so NJDG was likely showing incomplete data"
+2024-10-10T11:39:13Z,https://web.archive.org/web/20241010113913/https://njdg.ecourts.gov.in/njdg_v3/,"civil age bands sum to 6435208, not 10876799"
+2024-11-09T07:34:02Z,https://web.archive.org/web/20241109073402/https://njdg.ecourts.gov.in/njdg_v3/,"civil age bands sum to 8394077, not 10919223"
+2024-12-28T08:04:21Z,https://web.archive.org/web/20241228080421/https://njdg.ecourts.gov.in/njdg_v3/,the copy has no dashboard figures
+2025-01-12T23:56:58Z,https://web.archive.org/web/20250112235658/https://njdg.ecourts.gov.in/njdg_v3/,"civil age bands sum to 7481972, not 10928633"
+2025-04-16T01:43:25Z,https://web.archive.org/web/20250416014325/https://njdg.ecourts.gov.in/njdg_v3/,"civil age bands sum to 8887764, not 10849926"
+2025-07-15T19:40:57Z,https://web.archive.org/web/20250715194057/https://njdg.ecourts.gov.in/njdg_v3/,"civil age bands sum to 2169400, not 11041762"
+2025-07-26T20:57:18Z,https://web.archive.org/web/20250726205718/https://njdg.ecourts.gov.in/njdg_v3/,"civil age bands sum to 10251337, not 11056816"
+2025-08-12T21:50:27Z,https://web.archive.org/web/20250812215027/https://njdg.ecourts.gov.in/njdg_v3/,"civil age bands sum to 7344646, not 11029234"
+2026-01-21T21:39:42Z,https://web.archive.org/web/20260121213942/https://njdg.ecourts.gov.in/njdg_v3/,"civil age bands sum to 10170428, not 11095836"
+2026-05-20T19:26:35Z,https://web.archive.org/web/20260520192635/https://njdg.ecourts.gov.in/njdg_v3/,"civil age bands sum to 8061911, not 11156974"
+2026-06-06T02:12:52Z,https://web.archive.org/web/20260606021252/https://njdg.ecourts.gov.in/njdg_v3/,"civil age bands sum to 8148609, not 11227319"

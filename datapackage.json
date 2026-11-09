@@ -330,6 +330,376 @@
       }
     },
     {
+      "name": "national-history",
+      "path": "data/national/history.csv",
+      "format": "csv",
+      "description": "All-India figures by day, from archived copies of NJDG's dashboard and from each daily read",
+      "schema": {
+        "fields": [
+          {
+            "name": "read_on",
+            "type": "date",
+            "description": "Day NJDG was read, in India"
+          },
+          {
+            "name": "captured_at",
+            "type": "datetime",
+            "description": "When the page was captured or read, UTC"
+          },
+          {
+            "name": "page",
+            "type": "string",
+            "description": "dashboard is NJDG's current District and Taluka Courts page (njdg_v3); old_dashboard is the page it replaced (njdgnew), which shows age bands (4 until late 2018, then 7), case types and stages but not listings, hearing dates, contested disposals or pre-litigation"
+          },
+          {
+            "name": "source",
+            "type": "string",
+            "description": "The page read: a web.archive.org copy for back history, or NJDG itself"
+          },
+          {
+            "name": "pending_civil",
+            "type": "integer",
+            "description": "Pending cases, civil. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "pending_criminal",
+            "type": "integer",
+            "description": "Pending cases, criminal. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "age_0_1_civil",
+            "type": "integer",
+            "description": "Pending cases filed less than 1 year ago, civil. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "age_0_1_criminal",
+            "type": "integer",
+            "description": "Pending cases filed less than 1 year ago, criminal. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "age_1_3_civil",
+            "type": "integer",
+            "description": "Pending cases filed 1 to 3 years ago, civil. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "age_1_3_criminal",
+            "type": "integer",
+            "description": "Pending cases filed 1 to 3 years ago, criminal. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "age_3_5_civil",
+            "type": "integer",
+            "description": "Pending cases filed 3 to 5 years ago, civil. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "age_3_5_criminal",
+            "type": "integer",
+            "description": "Pending cases filed 3 to 5 years ago, criminal. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "age_5_10_civil",
+            "type": "integer",
+            "description": "Pending cases filed 5 to 10 years ago, civil. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "age_5_10_criminal",
+            "type": "integer",
+            "description": "Pending cases filed 5 to 10 years ago, criminal. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "age_over_10_civil",
+            "type": "integer",
+            "description": "Pending cases filed more than 10 years ago, civil. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "age_over_10_criminal",
+            "type": "integer",
+            "description": "Pending cases filed more than 10 years ago, criminal. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "instituted_last_month_civil",
+            "type": "integer",
+            "description": "Cases filed in the last month, civil. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "instituted_last_month_criminal",
+            "type": "integer",
+            "description": "Cases filed in the last month, criminal. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "disposed_last_month_civil",
+            "type": "integer",
+            "description": "Cases disposed of in the last month, civil. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "disposed_last_month_criminal",
+            "type": "integer",
+            "description": "Cases disposed of in the last month, criminal. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "disposed_contested_last_month_civil",
+            "type": "integer",
+            "description": "Contested cases disposed of in the last month, civil. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "disposed_contested_last_month_criminal",
+            "type": "integer",
+            "description": "Contested cases disposed of in the last month, criminal. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "disposed_uncontested_last_month_civil",
+            "type": "integer",
+            "description": "Uncontested cases disposed of in the last month, civil. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "disposed_uncontested_last_month_criminal",
+            "type": "integer",
+            "description": "Uncontested cases disposed of in the last month, criminal. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "listed_today_civil",
+            "type": "integer",
+            "description": "Cases listed for hearing on the day read, civil. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "listed_today_criminal",
+            "type": "integer",
+            "description": "Cases listed for hearing on the day read, criminal. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "undated_civil",
+            "type": "integer",
+            "description": "Pending cases with no next hearing date, civil. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "undated_criminal",
+            "type": "integer",
+            "description": "Pending cases with no next hearing date, criminal. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "excessive_dated_civil",
+            "type": "integer",
+            "description": "Pending cases whose next hearing is more than 3 months away, civil. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "excessive_dated_criminal",
+            "type": "integer",
+            "description": "Pending cases whose next hearing is more than 3 months away, criminal. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "filed_by_women_civil",
+            "type": "integer",
+            "description": "Pending cases filed by women, civil. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "filed_by_women_criminal",
+            "type": "integer",
+            "description": "Pending cases filed by women, criminal. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "filed_by_senior_citizens_civil",
+            "type": "integer",
+            "description": "Pending cases filed by senior citizens, civil. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "filed_by_senior_citizens_criminal",
+            "type": "integer",
+            "description": "Pending cases filed by senior citizens, criminal. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "pre_litigation_trial_civil",
+            "type": "integer",
+            "description": "Pre-litigation and pre-trial matters, as NJDG's dashboard chart counts them, civil. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "pre_litigation_trial_criminal",
+            "type": "integer",
+            "description": "Pre-litigation and pre-trial matters, as NJDG's dashboard chart counts them, criminal. Empty where NJDG showed no figure"
+          },
+          {
+            "name": "pre_litigation_trial_over_1_year",
+            "type": "integer",
+            "description": "Pre-litigation and pre-trial matters more than 1 year old, civil and criminal together. Empty where the page showed no figure"
+          },
+          {
+            "name": "age_0_3_civil",
+            "type": "integer",
+            "description": "Pending cases filed less than 3 years ago (2018 layout), civil. Old dashboard only, empty otherwise"
+          },
+          {
+            "name": "age_0_3_criminal",
+            "type": "integer",
+            "description": "Pending cases filed less than 3 years ago (2018 layout), criminal. Old dashboard only, empty otherwise"
+          },
+          {
+            "name": "age_10_20_civil",
+            "type": "integer",
+            "description": "Pending cases filed 10 to 20 years ago, civil. Old dashboard only, empty otherwise"
+          },
+          {
+            "name": "age_10_20_criminal",
+            "type": "integer",
+            "description": "Pending cases filed 10 to 20 years ago, criminal. Old dashboard only, empty otherwise"
+          },
+          {
+            "name": "age_20_30_civil",
+            "type": "integer",
+            "description": "Pending cases filed 20 to 30 years ago, civil. Old dashboard only, empty otherwise"
+          },
+          {
+            "name": "age_20_30_criminal",
+            "type": "integer",
+            "description": "Pending cases filed 20 to 30 years ago, criminal. Old dashboard only, empty otherwise"
+          },
+          {
+            "name": "age_over_30_civil",
+            "type": "integer",
+            "description": "Pending cases filed more than 30 years ago, civil. Old dashboard only, empty otherwise"
+          },
+          {
+            "name": "age_over_30_criminal",
+            "type": "integer",
+            "description": "Pending cases filed more than 30 years ago, criminal. Old dashboard only, empty otherwise"
+          },
+          {
+            "name": "type_original_civil",
+            "type": "integer",
+            "description": "Pending original cases, civil. Old dashboard only, empty otherwise"
+          },
+          {
+            "name": "type_original_criminal",
+            "type": "integer",
+            "description": "Pending original cases, criminal. Old dashboard only, empty otherwise"
+          },
+          {
+            "name": "type_appeal_civil",
+            "type": "integer",
+            "description": "Pending appeals, civil. Old dashboard only, empty otherwise"
+          },
+          {
+            "name": "type_appeal_criminal",
+            "type": "integer",
+            "description": "Pending appeals, criminal. Old dashboard only, empty otherwise"
+          },
+          {
+            "name": "type_application_civil",
+            "type": "integer",
+            "description": "Pending applications, civil. Old dashboard only, empty otherwise"
+          },
+          {
+            "name": "type_application_criminal",
+            "type": "integer",
+            "description": "Pending applications, criminal. Old dashboard only, empty otherwise"
+          },
+          {
+            "name": "type_execution_civil",
+            "type": "integer",
+            "description": "Pending execution cases, civil. Old dashboard only, empty otherwise"
+          },
+          {
+            "name": "type_execution_criminal",
+            "type": "integer",
+            "description": "Pending execution cases, criminal. Old dashboard only, empty otherwise"
+          },
+          {
+            "name": "stage_appearance_civil",
+            "type": "integer",
+            "description": "Pending cases at appearance or service, civil. Old dashboard only, empty otherwise"
+          },
+          {
+            "name": "stage_appearance_criminal",
+            "type": "integer",
+            "description": "Pending cases at appearance or service, criminal. Old dashboard only, empty otherwise"
+          },
+          {
+            "name": "stage_compliance_civil",
+            "type": "integer",
+            "description": "Pending cases at compliance, steps or stay, civil. Old dashboard only, empty otherwise"
+          },
+          {
+            "name": "stage_compliance_criminal",
+            "type": "integer",
+            "description": "Pending cases at compliance, steps or stay, criminal. Old dashboard only, empty otherwise"
+          },
+          {
+            "name": "stage_evidence_civil",
+            "type": "integer",
+            "description": "Pending cases at evidence, argument or judgement, civil. Old dashboard only, empty otherwise"
+          },
+          {
+            "name": "stage_evidence_criminal",
+            "type": "integer",
+            "description": "Pending cases at evidence, argument or judgement, criminal. Old dashboard only, empty otherwise"
+          },
+          {
+            "name": "stage_pleadings_civil",
+            "type": "integer",
+            "description": "Pending cases at pleadings, issues or charge, civil. Old dashboard only, empty otherwise"
+          },
+          {
+            "name": "stage_pleadings_criminal",
+            "type": "integer",
+            "description": "Pending cases at pleadings, issues or charge, criminal. Old dashboard only, empty otherwise"
+          },
+          {
+            "name": "stage_adjudication_civil",
+            "type": "integer",
+            "description": "Pending cases at adjudication (2018 layout), civil. Old dashboard only, empty otherwise"
+          },
+          {
+            "name": "stage_adjudication_criminal",
+            "type": "integer",
+            "description": "Pending cases at adjudication (2018 layout), criminal. Old dashboard only, empty otherwise"
+          },
+          {
+            "name": "stage_securing_presence_civil",
+            "type": "integer",
+            "description": "Pending cases at securing presence (2018 layout), civil. Old dashboard only, empty otherwise"
+          },
+          {
+            "name": "stage_securing_presence_criminal",
+            "type": "integer",
+            "description": "Pending cases at securing presence (2018 layout), criminal. Old dashboard only, empty otherwise"
+          },
+          {
+            "name": "stage_preparation_civil",
+            "type": "integer",
+            "description": "Pending cases at preparation (2018 layout), civil. Old dashboard only, empty otherwise"
+          },
+          {
+            "name": "stage_preparation_criminal",
+            "type": "integer",
+            "description": "Pending cases at preparation (2018 layout), criminal. Old dashboard only, empty otherwise"
+          }
+        ]
+      }
+    },
+    {
+      "name": "national-gaps",
+      "path": "data/national/gaps.csv",
+      "format": "csv",
+      "description": "Archived copies that gave no row, and why",
+      "schema": {
+        "fields": [
+          {
+            "name": "captured_at",
+            "type": "datetime",
+            "description": "When the archived copy was captured, UTC"
+          },
+          {
+            "name": "source",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "reason",
+            "type": "string",
+            "description": "Why the copy gave no row"
+          }
+        ]
+      }
+    },
+    {
       "name": "runs",
       "path": "data/runs.csv",
       "format": "csv",
