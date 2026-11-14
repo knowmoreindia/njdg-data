@@ -27,7 +27,7 @@ Each district has a stable `id` like `bihar/patna`, the same in every file.
 | `data/weekly/<week>/district-measures.csv` | The weekly detail in long form: 7 age bands, case types, stages, year of filing, purpose of the next hearing, and cases filed and disposed of each year |
 | `data/districts-history.csv` | Every weekly `districts.csv` stacked |
 | `data/latest/` | The newest weekly files, and the full snapshot as JSON |
-| `data/national/history.csv` | All-India figures back to 22 November 2018, 296 days so far. Before 9 November 2026 each row comes from a copy of NJDG's page saved on the Internet Archive, linked in `source` |
+| `data/national/history.csv` | All-India figures back to 22 November 2018, 297 days so far. Before 9 November 2026 each row comes from a copy of NJDG's page saved on the Internet Archive, linked in `source` |
 | `data/daily/gaps.csv` | Districts missing on a given day, and why |
 | `data/runs.csv` | A log of every read, including ones that failed |
 | `codebook.csv` | Every column and what it counts (also as `datapackage.json`) |
