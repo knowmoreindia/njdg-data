@@ -7,4 +7,6 @@ read_on,run,started_at,finished_at,requests,rows,gaps,status,note
 2026-11-13,daily,2026-11-13T01:30:29.106Z,2026-11-13T02:13:00.006Z,802,765,0,ok,
 2026-11-14,daily,2026-11-14T01:30:48.862Z,2026-11-14T02:07:08.067Z,802,765,0,ok,
 2026-11-15,daily,2026-11-15T01:30:48.957Z,2026-11-15T02:14:23.815Z,802,765,0,ok,
+2026-11-15,weekly,2026-11-15T02:14:24.593Z,2026-11-15T02:30:03.951Z,1533,765,0,failed,"Read but not kept: week 2026-W46 already had its published 9 November snapshot"
+2026-11-16,daily,2026-11-16T01:30:42.000Z,2026-11-16T01:30:42.000Z,0,0,0,failed,"Not read: the failed 15 November run left the checkout unclean, which stopped the pipeline. NJDG shows only the current day, so this day cannot be recovered"
 2026-11-17,daily,2026-11-17T09:09:30.135Z,2026-11-17T09:37:26.818Z,802,764,1,ok,
