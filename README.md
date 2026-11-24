@@ -6,6 +6,18 @@ NJDG only ever shows today's numbers. This repo keeps the days.
 
 **Latest week (2026-W46, read 2026-11-09):** 5.22 crore cases pending in district and taluka courts, 5,21,75,978 in all. 1.13 crore civil, 4.09 crore criminal.
 
+## At a glance
+
+| Table | Rows | Period | Where |
+| --- | ---: | --- | --- |
+| daily | 6,119 | 2026-11-09 to 2026-11-17 | `data/daily/2026-11.csv` |
+| daily-gaps | 1 | 2026-11-17 | `data/daily/gaps.csv` |
+| districts-history | 765 | 2026-11-09 | `data/districts-history.csv` |
+| district-measures | 1,31,023 | 2026-11-09 | `data/latest/district-measures.csv` |
+| national-history | 299 | 2018-11-22 to 2026-11-17 | `data/national/history.csv` |
+| national-gaps | 23 |  | `data/national/gaps.csv` |
+| runs | 11 | 2026-11-09 to 2026-11-17 | `data/runs.csv` |
+
 ## Quick start
 
 ```python
@@ -53,6 +65,20 @@ District figures start when this repo did, because NJDG doesn't publish its past
 - Case types cover NJDG's main types only, so they can add up to a little less than pending. Stages and purposes skip cases with none recorded, and NJDG sometimes lists the same label twice.
 - `filed` and `disposed` for the current year run up to the day read.
 - No case-level or party data, and nothing behind NJDG's CAPTCHA.
+
+## How to cite
+
+Know More India, *NJDG data*, version 2026-11-09, https://github.com/knowmoreindia/njdg-data. Licensed CC BY 4.0.
+
+```bibtex
+@misc{knowmoreindia_njdg_data,
+  author = {{Know More India}},
+  title = {NJDG data},
+  year = {2026},
+  version = {2026-11-09},
+  howpublished = {\url{https://github.com/knowmoreindia/njdg-data}}
+}
+```
 
 ## Licence
 
